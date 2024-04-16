@@ -1,0 +1,240 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C Name=Device_Floor_Barrier_C_1 Archetype="/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Default__Device_Floor_Barrier_C'" ExportPath="/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1'"
+         Begin Object Class=/Script/FortniteGame.BaseBuildingStaticMeshComponent Name="StaticMeshComponent0" Archetype="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Default__Device_Floor_Barrier_C:StaticMeshComponent0'" ExportPath="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.StaticMeshComponent0'"
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype="/Script/Engine.BoxComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Default__Device_Floor_Barrier_C:BoundingBoxComponent'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.BoundingBoxComponent'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype="/Script/Engine.StaticMeshComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Default__Device_Floor_Barrier_C:EditorOnlyStaticMeshComponent'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.EditorOnlyStaticMeshComponent'"
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Trace Location" Archetype="/Script/Engine.SceneComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Default__Device_Floor_Barrier_C:Trace Location'" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Trace Location'"
+         End Object
+         Begin Object Class=/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent Name="Trap AI Perception Stimuli Source Component" Archetype="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Default__Device_Floor_Barrier_C:Trap AI Perception Stimuli Source Component'" ExportPath="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Trap AI Perception Stimuli Source Component'"
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:ToyOptionsComponent_GEN_VARIABLE'" ExportPath="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.ToyOptionsComponent'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype="/Script/FortniteGame.FortMinigameProgressComponent'/Game/Items/Traps/Blueprints/Toys/BuildingToy.BuildingToy_C:FortMinigameProgress_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortMinigameProgressComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FortMinigameProgress'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGame" Archetype="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Items/Traps/Blueprints/Toys/BuildingToy.BuildingToy_C:VisibleInGame_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.VisibleInGame'"
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Scene" Archetype="/Script/Engine.SceneComponent'/Game/Items/Traps/Blueprints/Toys/Device_Volume_Floor.Device_Volume_Floor_C:Scene_GEN_VARIABLE'" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Scene'"
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="Trigger" Archetype="/Script/Engine.BoxComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:Trigger_GEN_VARIABLE'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Trigger'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Frame" Archetype="/Script/Engine.StaticMeshComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:Frame_GEN_VARIABLE'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Frame'"
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="MID_M_Barrier_Cage" ExportPath="/Script/Engine.MaterialInstanceDynamic'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Frame.MID_M_Barrier_Cage'"
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="MID_M_Barrier_CageEditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Frame.MID_M_Barrier_Cage.MID_M_Barrier_CageEditorOnlyData'"
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="LightRays" Archetype="/Script/Engine.StaticMeshComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:LightRays_GEN_VARIABLE'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.LightRays'"
+         End Object
+         Begin Object Class=/Script/Engine.PointLightComponent Name="PointLight" Archetype="/Script/Engine.PointLightComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:PointLight_GEN_VARIABLE'" ExportPath="/Script/Engine.PointLightComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.PointLight'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceived" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Items/Traps/Blueprints/Toys/Device_Volume_Floor.Device_Volume_Floor_C:EnableWhenReceived_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.EnableWhenReceived'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceived" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Items/Traps/Blueprints/Toys/Device_Volume_Floor.Device_Volume_Floor_C:DisableWhenReceived_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.DisableWhenReceived'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="ZoneMeshVisibility" Archetype="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Items/Traps/Blueprints/Toys/Device_Volume_Floor.Device_Volume_Floor_C:ZoneMeshVisibility_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.ZoneMeshVisibility'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="FrameMeshVisibility" Archetype="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Items/Traps/Blueprints/Toys/Device_Volume_Floor.Device_Volume_Floor_C:FrameMeshVisibility_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FrameMeshVisibility'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="UseRestriction" Archetype="/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/Game/Items/Traps/Blueprints/Toys/Device_Volume_Floor.Device_Volume_Floor_C:UseRestriction_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.UseRestriction'"
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="FxBarrierOverlapVolume" Archetype="/Script/Engine.BoxComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:FxBarrierOverlapVolume_GEN_VARIABLE'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FxBarrierOverlapVolume'"
+            Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_0" Archetype="/Script/Engine.BodySetup'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:FxBarrierOverlapVolume_GEN_VARIABLE.BodySetup_0'" ExportPath="/Script/Engine.BodySetup'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FxBarrierOverlapVolume.BodySetup_0'"
+            End Object
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="BarrierOffset" Archetype="/Script/Engine.SceneComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:BarrierOffset_GEN_VARIABLE'" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.BarrierOffset'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="BarrierBounds" Archetype="/Script/Engine.StaticMeshComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:BarrierBounds_GEN_VARIABLE'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.BarrierBounds'"
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="OverlapVolume" Archetype="/Script/Engine.BoxComponent'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:OverlapVolume_GEN_VARIABLE'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.OverlapVolume'"
+         End Object
+         Begin Object Class=/Script/Engine.TimelineComponent Name="FadeBoundsTL" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FadeBoundsTL'"
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.StaticMeshComponent0'"
+            OverrideMaterials(0)="/Script/Engine.MaterialInstanceDynamic'/Engine/Transient.MID_M_EliminationVolume_Inst'"
+            bGenerateOverlapEvents=True
+            RelativeLocation=(X=-1080.000000,Y=1828.000000,Z=696.000000)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.BoundingBoxComponent'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.EditorOnlyStaticMeshComponent'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="Trace Location" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Trace Location'"
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="Trap AI Perception Stimuli Source Component" ExportPath="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Trap AI Perception Stimuli Source Component'"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.ToyOptionsComponent'"
+            PlayerOptionData=(PropertyOverrides=((PropertyName="BaseMeshVisibleInGame",PropertyData="False"),(PropertyName="bDamageCreatures",PropertyData="False"),(PropertyName="bDamageEmptyVehicles",PropertyData="False"),(PropertyName="bDamagePlayerBots",PropertyData="False"),(PropertyName="bDamagePlayers",PropertyData="True"),(PropertyName="bDamageVehicles",PropertyData="False"),(PropertyName="BlockWeaponsInGame",PropertyData="True"),(PropertyName="EnabledIndex",PropertyData="2"),(PropertyName="EnabledOnStart",PropertyData="True"),(PropertyName="Knob_VolumeShape",PropertyData="Box"),(PropertyName="LabelOverride",PropertyData="Appareil de plaque de barrière"),(PropertyName="ZoneProtectedTeam",PropertyData="(TeamType=None,TeamIndex=1)"),(PropertyName="ZoneVisibiltyIndex",PropertyData="0"),(PropertyName="ZoneVisibleInGame",PropertyData="False"),(PropertyName="ZoneXScale",PropertyData="1.000000"),(PropertyName="ZoneYScale",PropertyData="1.000000"),(PropertyName="ZoneZScale",PropertyData="1.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath="/Script/FortniteGame.FortMinigameProgressComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FortMinigameProgress'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGame" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.VisibleInGame'"
+            VisibleDuringPhase=NewEnumerator1
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Scene" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Scene'"
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Trigger" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Trigger'"
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="Scene"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Frame" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Frame'"
+            Begin Object Name="MID_M_Barrier_Cage" ExportPath="/Script/Engine.MaterialInstanceDynamic'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Frame.MID_M_Barrier_Cage'"
+               Begin Object Name="MID_M_Barrier_CageEditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.Frame.MID_M_Barrier_Cage.MID_M_Barrier_CageEditorOnlyData'"
+               End Object
+               Parent="/Script/Engine.Material'/Game/Abilities/Toys/Barrier/M_Barrier_Cage.M_Barrier_Cage'"
+               EditorOnlyData="/Script/Engine.MaterialInstanceEditorOnlyData'MID_M_Barrier_CageEditorOnlyData'"
+               LightingGuid=127AA54F4A112D6813C04399C0D0B4F5
+            End Object
+            OverrideMaterials(0)="/Script/Engine.MaterialInstanceDynamic'MID_M_Barrier_Cage'"
+            CachedMaxDrawDistance=21400.000000
+            BoundsScale=1.500000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="Scene"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="LightRays" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.LightRays'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PointLight" ExportPath="/Script/Engine.PointLightComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.PointLight'"
+            MaxDrawDistance=21400.000000
+            MaxDistanceFadeRange=2048.000000
+            AttachParent="LightRays"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceived" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.EnableWhenReceived'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceived" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.DisableWhenReceived'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ZoneMeshVisibility" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.ZoneMeshVisibility'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FrameMeshVisibility" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FrameMeshVisibility'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="UseRestriction" ExportPath="/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.UseRestriction'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FxBarrierOverlapVolume" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FxBarrierOverlapVolume'"
+            Begin Object Name="BodySetup_0" ExportPath="/Script/Engine.BodySetup'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FxBarrierOverlapVolume.BodySetup_0'"
+               AggGeom=(BoxElems=((X=732.000000,Y=732.000000,Z=424.000000)))
+            End Object
+            BoxExtent=(X=366.000000,Y=366.000000,Z=212.000000)
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionResponses=(ResponseArray=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="WorldStatic",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="FCC_Object_SpectatorDroneCamera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore),(Channel="FCC_Trace_WeaponWorldMulti",Response=ECR_Ignore))))
+            AttachParent="Scene"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="BarrierOffset" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.BarrierOffset'"
+            AttachParent="Scene"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="BarrierBounds" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.BarrierBounds'"
+            CachedMaxDrawDistance=21400.000000
+            CastShadow=False
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="BarrierOffset"
+            RelativeScale3D=(X=511.500000,Y=511.500000,Z=383.500000)
+            bHiddenInGame=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OverlapVolume" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.OverlapVolume'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FadeBoundsTL" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_Barrier_C_1.FadeBoundsTL'"
+            TheTimeline=(LengthMode=TL_TimelineLength,Length=0.300000,InterpFloats=((FloatCurve="/Script/Engine.CurveFloat'/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C:CurveFloat_0'",TrackName="Lerp",FloatPropertyName="FadeBoundsTL_Lerp_1F01780F4CB0197D09B4DAADBE8AA7A3")),TimelinePostUpdateFunc=Device_Floor_Barrier_C_1.FadeBoundsTL__UpdateFunc,TimelineFinishedFunc=Device_Floor_Barrier_C_1.FadeBoundsTL__FinishedFunc,PropertySetObject="/Game/Items/Traps/Blueprints/Device_Floor_Barrier.Device_Floor_Barrier_C'Device_Floor_Barrier_C_1'",DirectionPropertyName="FadeBoundsTL__Direction_1F01780F4CB0197D09B4DAADBE8AA7A3")
+            bNetAddressable=True
+            CreationMethod=UserConstructionScript
+         End Object
+         OverlapVolume="OverlapVolume"
+         BarrierBounds="BarrierBounds"
+         BarrierOffset="BarrierOffset"
+         FxBarrierOverlapVolume="FxBarrierOverlapVolume"
+         FadeBoundsTL="/Script/Engine.TimelineComponent'FadeBoundsTL'"
+         UseRestriction="UseRestriction"
+         FrameMeshVisibility="FrameMeshVisibility"
+         ZoneMeshVisibility="ZoneMeshVisibility"
+         DisableWhenReceived="DisableWhenReceived"
+         EnableWhenReceived="EnableWhenReceived"
+         PointLight="PointLight"
+         LightRays="LightRays"
+         Frame="Frame"
+         Trigger="Trigger"
+         Scene="Scene"
+         VolumeMID="/Script/Engine.MaterialInstanceDynamic'Frame.MID_M_Barrier_Cage'"
+         VisibleInGame="VisibleInGame"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         TrapData="/Script/FortniteGame.FortTrapItemDefinition'/Game/Athena/Items/Traps/TID_Floor_BarrierDevice.TID_Floor_BarrierDevice'"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         NavigationObstacleOverride=ForceEnabled
+         CullDistance=21400.000000
+         bAlwaysExportNavRelevantComponent=False
+         bIsNavigationRelevant=False
+         SavedActorGuid=00000000000000000000000074129681
+         LabelOverride="Appareil de plaque de barrière"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         PivotOffset=(X=-0.000000,Y=256.000000,Z=-0.000000)
+         ActorLabel="Appareil de plaque de barrière"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

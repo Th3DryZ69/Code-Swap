@@ -1,0 +1,191 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C Name=Device_Floor_PlayerCheckpoint_C_1 Archetype="/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Default__Device_Floor_PlayerCheckpoint_C'" ExportPath="/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1'"
+         Begin Object Class=/Script/FortniteGame.BaseBuildingStaticMeshComponent Name="StaticMeshComponent0" Archetype="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Default__Device_Floor_PlayerCheckpoint_C:StaticMeshComponent0'" ExportPath="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.StaticMeshComponent0'"
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype="/Script/Engine.BoxComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Default__Device_Floor_PlayerCheckpoint_C:BoundingBoxComponent'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.BoundingBoxComponent'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype="/Script/Engine.StaticMeshComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Default__Device_Floor_PlayerCheckpoint_C:EditorOnlyStaticMeshComponent'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.EditorOnlyStaticMeshComponent'"
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Trace Location" Archetype="/Script/Engine.SceneComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Default__Device_Floor_PlayerCheckpoint_C:Trace Location'" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.Trace Location'"
+         End Object
+         Begin Object Class=/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent Name="Trap AI Perception Stimuli Source Component" Archetype="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Default__Device_Floor_PlayerCheckpoint_C:Trap AI Perception Stimuli Source Component'" ExportPath="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.Trap AI Perception Stimuli Source Component'"
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:ToyOptionsComponent_GEN_VARIABLE'" ExportPath="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.ToyOptionsComponent'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype="/Script/FortniteGame.FortMinigameProgressComponent'/Game/Items/Traps/Blueprints/Toys/BuildingToy.BuildingToy_C:FortMinigameProgress_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortMinigameProgressComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.FortMinigameProgress'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGame" Archetype="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Items/Traps/Blueprints/Toys/BuildingToy.BuildingToy_C:VisibleInGame_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.VisibleInGame'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigamePlayerStartComponent Name="FortMinigamePlayerStart" Archetype="/Script/FortniteGame.FortMinigamePlayerStartComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:FortMinigamePlayerStart_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortMinigamePlayerStartComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.FortMinigamePlayerStart'"
+         End Object
+         Begin Object Class=/Script/Engine.ChildActorComponent Name="PlayerStartCreative1" Archetype="/Script/Engine.ChildActorComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:PlayerStartCreative1_GEN_VARIABLE'" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative1'"
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="CheckpointCollider" Archetype="/Script/Engine.BoxComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:CheckpointCollider_GEN_VARIABLE'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.CheckpointCollider'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="LightBeam" Archetype="/Script/Engine.StaticMeshComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:LightBeam_GEN_VARIABLE'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.LightBeam'"
+         End Object
+         Begin Object Class=/Script/Engine.ChildActorComponent Name="PlayerStartCreative2" Archetype="/Script/Engine.ChildActorComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:PlayerStartCreative2_GEN_VARIABLE'" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative2'"
+         End Object
+         Begin Object Class=/Script/Engine.ChildActorComponent Name="PlayerStartCreative3" Archetype="/Script/Engine.ChildActorComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:PlayerStartCreative3_GEN_VARIABLE'" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative3'"
+         End Object
+         Begin Object Class=/Script/Engine.ChildActorComponent Name="PlayerStartCreative4" Archetype="/Script/Engine.ChildActorComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:PlayerStartCreative4_GEN_VARIABLE'" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative4'"
+         End Object
+         Begin Object Class=/Script/Engine.ChildActorComponent Name="PlayerStartCreative0" Archetype="/Script/Engine.ChildActorComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:PlayerStartCreative0_GEN_VARIABLE'" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative0'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="OnActivatedForFirstTimePerPlayerTransmit" Archetype="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:OnActivatedForFirstTimePerPlayerTransmit_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.OnActivatedForFirstTimePerPlayerTransmit'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="OnFirstTimeActivatedTransmit" Archetype="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:OnFirstTimeActivatedTransmit_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.OnFirstTimeActivatedTransmit'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceivingFrom" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:EnableWhenReceivingFrom_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.EnableWhenReceivingFrom'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceivingFrom" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:DisableWhenReceivingFrom_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.DisableWhenReceivingFrom'"
+         End Object
+         Begin Object Class=/Script/Engine.TimelineComponent Name="TrapVisualStateTransitionTL" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.TrapVisualStateTransitionTL'"
+         End Object
+         Begin Object Class=/Script/Engine.TimelineComponent Name="AnimatedEmissiveTL" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.AnimatedEmissiveTL'"
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.StaticMeshComponent0'"
+            OverrideMaterials(0)="/Script/Engine.MaterialInstanceDynamic'/Engine/Transient.MID_MI_Checkpoint'"
+            RelativeLocation=(X=-2796.000000,Y=4568.000000,Z=1488.000000)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.BoundingBoxComponent'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.EditorOnlyStaticMeshComponent'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="Trace Location" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.Trace Location'"
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="Trap AI Perception Stimuli Source Component" ExportPath="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.Trap AI Perception Stimuli Source Component'"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.ToyOptionsComponent'"
+            PlayerOptionData=(PropertyOverrides=((PropertyName="EnabledOnStart",PropertyData="True"),(PropertyName="LabelOverride",PropertyData="Point de passage de joueur"),(PropertyName="ResetInventorySetting",PropertyData="False"),(PropertyName="TargetTeamIndex",PropertyData="996"),(PropertyName="VisibleDuringMinigameSetting",PropertyData="True")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath="/Script/FortniteGame.FortMinigameProgressComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.FortMinigameProgress'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGame" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.VisibleInGame'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigamePlayerStart" ExportPath="/Script/FortniteGame.FortMinigamePlayerStartComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.FortMinigamePlayerStart'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PlayerStartCreative1" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative1'"
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CheckpointCollider" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.CheckpointCollider'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="LightBeam" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.LightBeam'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PlayerStartCreative2" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative2'"
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PlayerStartCreative3" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative3'"
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PlayerStartCreative4" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative4'"
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PlayerStartCreative0" ExportPath="/Script/Engine.ChildActorComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.PlayerStartCreative0'"
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OnActivatedForFirstTimePerPlayerTransmit" ExportPath="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.OnActivatedForFirstTimePerPlayerTransmit'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OnFirstTimeActivatedTransmit" ExportPath="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.OnFirstTimeActivatedTransmit'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceivingFrom" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.EnableWhenReceivingFrom'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceivingFrom" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.DisableWhenReceivingFrom'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TrapVisualStateTransitionTL" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.TrapVisualStateTransitionTL'"
+            TheTimeline=(LengthMode=TL_TimelineLength,Length=0.500000,InterpFloats=((FloatCurve="/Script/Engine.CurveFloat'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:CurveFloat_6'",TrackName="Lerp",FloatPropertyName="TrapVisualStateTransitionTL_Lerp_19D84AB24AA0364CEA0047AC2081ECEF")),TimelinePostUpdateFunc=Device_Floor_PlayerCheckpoint_C_1.TrapVisualStateTransitionTL__UpdateFunc,TimelineFinishedFunc=Device_Floor_PlayerCheckpoint_C_1.TrapVisualStateTransitionTL__FinishedFunc,PropertySetObject="/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C'Device_Floor_PlayerCheckpoint_C_1'",DirectionPropertyName="TrapVisualStateTransitionTL__Direction_19D84AB24AA0364CEA0047AC2081ECEF")
+            bNetAddressable=True
+            CreationMethod=UserConstructionScript
+         End Object
+         Begin Object Name="AnimatedEmissiveTL" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Device_Floor_PlayerCheckpoint_C_1.AnimatedEmissiveTL'"
+            TheTimeline=(LengthMode=TL_TimelineLength,Length=1.100000,InterpFloats=((FloatCurve="/Script/Engine.CurveFloat'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:CurveFloat_0'",TrackName="LerpTrap",FloatPropertyName="AnimatedEmissiveTL_LerpTrap_18AFD2CA46A64447C18D9F8D96EFD661"),(FloatCurve="/Script/Engine.CurveFloat'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:CurveFloat_1'",TrackName="LerpCenterRays",FloatPropertyName="AnimatedEmissiveTL_LerpCenterRays_18AFD2CA46A64447C18D9F8D96EFD661"),(FloatCurve="/Script/Engine.CurveFloat'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:CurveFloat_2'",TrackName="SourceMaskExponent",FloatPropertyName="AnimatedEmissiveTL_SourceMaskExponent_18AFD2CA46A64447C18D9F8D96EFD661"),(FloatCurve="/Script/Engine.CurveFloat'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:CurveFloat_3'",TrackName="Center",FloatPropertyName="AnimatedEmissiveTL_Center_18AFD2CA46A64447C18D9F8D96EFD661"),(FloatCurve="/Script/Engine.CurveFloat'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:CurveFloat_4'",TrackName="OuterRaysFade",FloatPropertyName="AnimatedEmissiveTL_OuterRaysFade_18AFD2CA46A64447C18D9F8D96EFD661"),(FloatCurve="/Script/Engine.CurveFloat'/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C:CurveFloat_5'",TrackName="BlockSineAdd",FloatPropertyName="AnimatedEmissiveTL_BlockSineAdd_18AFD2CA46A64447C18D9F8D96EFD661")),TimelinePostUpdateFunc=Device_Floor_PlayerCheckpoint_C_1.AnimatedEmissiveTL__UpdateFunc,TimelineFinishedFunc=Device_Floor_PlayerCheckpoint_C_1.AnimatedEmissiveTL__FinishedFunc,PropertySetObject="/Game/Items/Traps/Blueprints/Device_Floor_PlayerCheckpoint.Device_Floor_PlayerCheckpoint_C'Device_Floor_PlayerCheckpoint_C_1'",DirectionPropertyName="AnimatedEmissiveTL__Direction_18AFD2CA46A64447C18D9F8D96EFD661")
+            bNetAddressable=True
+            CreationMethod=UserConstructionScript
+         End Object
+         DisableWhenReceivingFrom="DisableWhenReceivingFrom"
+         EnableWhenReceivingFrom="EnableWhenReceivingFrom"
+         OnFirstTimeActivatedTransmit="OnFirstTimeActivatedTransmit"
+         OnActivatedForFirstTimePerPlayerTransmit="OnActivatedForFirstTimePerPlayerTransmit"
+         PlayerStartCreative0="PlayerStartCreative0"
+         PlayerStartCreative4="PlayerStartCreative4"
+         PlayerStartCreative3="PlayerStartCreative3"
+         PlayerStartCreative2="PlayerStartCreative2"
+         LightBeam="LightBeam"
+         CheckpointCollider="CheckpointCollider"
+         PlayerStartCreative1="PlayerStartCreative1"
+         FortMinigamePlayerStart="FortMinigamePlayerStart"
+         AnimatedEmissiveTL="/Script/Engine.TimelineComponent'AnimatedEmissiveTL'"
+         TrapVisualStateTransitionTL="/Script/Engine.TimelineComponent'TrapVisualStateTransitionTL'"
+         VisibleInGame="VisibleInGame"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         TrapData="/Script/FortniteGame.FortTrapItemDefinition'/Game/Athena/Items/Traps/TID_Floor_PlayerCheckpoint.TID_Floor_PlayerCheckpoint'"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=0000000000000000000000000B260DD8
+         LabelOverride="Point de passage de joueur"
+         RootComponent="StaticMeshComponent0"
+         PivotOffset=(X=-0.000000,Y=256.000000,Z=-0.000000)
+         ActorLabel="Point de passage de joueur"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

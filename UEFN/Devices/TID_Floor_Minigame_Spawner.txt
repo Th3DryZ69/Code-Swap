@@ -1,0 +1,232 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C Name=Trap_Floor_Minigame_Spawner_C_1 Archetype="/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Default__Trap_Floor_Minigame_Spawner_C'" ExportPath="/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1'"
+         Begin Object Class=/Script/FortniteGame.BaseBuildingStaticMeshComponent Name="StaticMeshComponent0" Archetype="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Default__Trap_Floor_Minigame_Spawner_C:StaticMeshComponent0'" ExportPath="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.StaticMeshComponent0'"
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="MI_Floor_Item_Spawn_0-89BB60D4098BEB3D" ExportPath="/Script/Engine.MaterialInstanceDynamic'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.StaticMeshComponent0.MI_Floor_Item_Spawn_0-89BB60D4098BEB3D'"
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="MI_Floor_Item_Spawn_0-89BB60D4098BEB3DEditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.StaticMeshComponent0.MI_Floor_Item_Spawn_0-89BB60D4098BEB3D.MI_Floor_Item_Spawn_0-89BB60D4098BEB3DEditorOnlyData'"
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype="/Script/Engine.BoxComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Default__Trap_Floor_Minigame_Spawner_C:BoundingBoxComponent'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.BoundingBoxComponent'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype="/Script/Engine.StaticMeshComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Default__Trap_Floor_Minigame_Spawner_C:EditorOnlyStaticMeshComponent'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.EditorOnlyStaticMeshComponent'"
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Trace Location" Archetype="/Script/Engine.SceneComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Default__Trap_Floor_Minigame_Spawner_C:Trace Location'" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Trace Location'"
+         End Object
+         Begin Object Class=/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent Name="Trap AI Perception Stimuli Source Component" Archetype="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Default__Trap_Floor_Minigame_Spawner_C:Trap AI Perception Stimuli Source Component'" ExportPath="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Trap AI Perception Stimuli Source Component'"
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:ToyOptionsComponent_GEN_VARIABLE'" ExportPath="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.ToyOptionsComponent'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype="/Script/FortniteGame.FortMinigameProgressComponent'/Game/Items/Traps/Blueprints/Toys/BuildingToy.BuildingToy_C:FortMinigameProgress_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortMinigameProgressComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.FortMinigameProgress'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGame" Archetype="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Items/Traps/Blueprints/Toys/BuildingToy.BuildingToy_C:VisibleInGame_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.VisibleInGame'"
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="DropBox" Archetype="/Script/Engine.BoxComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:DropBox_GEN_VARIABLE'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.DropBox'"
+         End Object
+         Begin Object Class=/Game/Athena/Items/Traps/MinigameSpawner/Minigame_Spawner_Component.Minigame_Spawner_Component_C Name="Minigame_Spawner_Component" Archetype="/Game/Athena/Items/Traps/MinigameSpawner/Minigame_Spawner_Component.Minigame_Spawner_Component_C'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:Minigame_Spawner_Component_GEN_VARIABLE'" ExportPath="/Game/Athena/Items/Traps/MinigameSpawner/Minigame_Spawner_Component.Minigame_Spawner_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Minigame_Spawner_Component'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="LightRays" Archetype="/Script/Engine.StaticMeshComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:LightRays_GEN_VARIABLE'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.LightRays'"
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0" ExportPath="/Script/Engine.MaterialInstanceDynamic'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.LightRays.M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0'"
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0EditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.LightRays.M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0.M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0EditorOnlyData'"
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="RotationSceneComponent" Archetype="/Script/Engine.SceneComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:RotationSceneComponent_GEN_VARIABLE'" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.RotationSceneComponent'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="PreviewStaticMesh" Archetype="/Script/Engine.StaticMeshComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:PreviewStaticMesh_GEN_VARIABLE'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.PreviewStaticMesh'"
+         End Object
+         Begin Object Class=/Script/Engine.SkeletalMeshComponent Name="PreviewSkeletalMesh" Archetype="/Script/Engine.SkeletalMeshComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:PreviewSkeletalMesh_GEN_VARIABLE'" ExportPath="/Script/Engine.SkeletalMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.PreviewSkeletalMesh'"
+         End Object
+         Begin Object Class=/Script/Engine.AudioComponent Name="Holo Loop Cue" Archetype="/Script/Engine.AudioComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:Holo Loop Cue_GEN_VARIABLE'" ExportPath="/Script/Engine.AudioComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Holo Loop Cue'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceived" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:EnableWhenReceived_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.EnableWhenReceived'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceived" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:DisableWhenReceived_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.DisableWhenReceived'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="SpawnItemWhenReceived" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:SpawnItemWhenReceived_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.SpawnItemWhenReceived'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="CycleToNextItemWhenReceived" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:CycleToNextItemWhenReceived_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.CycleToNextItemWhenReceived'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="TriggerOnPickedUpItem" Archetype="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:TriggerOnPickedUpItem_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.TriggerOnPickedUpItem'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_ItemPreview_Component.Creative_ItemPreview_Component_C Name="Creative_ItemPreview_Component" Archetype="/Game/Creative/Devices/Common/Components/Creative_ItemPreview_Component.Creative_ItemPreview_Component_C'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:Creative_ItemPreview_Component_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_ItemPreview_Component.Creative_ItemPreview_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Creative_ItemPreview_Component'"
+         End Object
+         Begin Object Class=/Script/Engine.TimelineComponent Name="SetTrapActiveVisuals" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.SetTrapActiveVisuals'"
+         End Object
+         Begin Object Class=/Script/Engine.TimelineComponent Name="PulseTrap" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.PulseTrap'"
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.StaticMeshComponent0'"
+            Begin Object Name="MI_Floor_Item_Spawn_0-89BB60D4098BEB3D" ExportPath="/Script/Engine.MaterialInstanceDynamic'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.StaticMeshComponent0.MI_Floor_Item_Spawn_0-89BB60D4098BEB3D'"
+               Begin Object Name="MI_Floor_Item_Spawn_0-89BB60D4098BEB3DEditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.StaticMeshComponent0.MI_Floor_Item_Spawn_0-89BB60D4098BEB3D.MI_Floor_Item_Spawn_0-89BB60D4098BEB3DEditorOnlyData'"
+               End Object
+               Parent="/Script/Engine.MaterialInstanceConstant'/Game/Athena/Items/Traps/MinigameSpawner/MI_Floor_Item_Spawn.MI_Floor_Item_Spawn'"
+               VectorParameterValues(0)=(ParameterInfo=(Name="EmissiveMultiplier"),ParameterValue=(R=0.237578,G=1.111410,B=5.000000,A=1.000000))
+               EditorOnlyData="/Script/Engine.MaterialInstanceEditorOnlyData'MI_Floor_Item_Spawn_0-89BB60D4098BEB3DEditorOnlyData'"
+               LightingGuid=FEA7DC6B46B2DA63D055988ADF8CCBB8
+            End Object
+            OverrideMaterials(0)="/Script/Engine.MaterialInstanceDynamic'/Engine/Transient.MID_MI_Floor_Item_Spawn'"
+            RelativeLocation=(X=-2788.000000,Y=4464.000000,Z=1444.000000)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.BoundingBoxComponent'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.EditorOnlyStaticMeshComponent'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="Trace Location" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Trace Location'"
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="Trap AI Perception Stimuli Source Component" ExportPath="/Script/FortniteAI.AthenaTrapAIPerceptionStimuliSourceComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Trap AI Perception Stimuli Source Component'"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.ToyOptionsComponent'"
+            PlayerOptionData=(PropertyOverrides=((PropertyName="EnabledOnStart",PropertyData="True"),(PropertyName="GrantExtraAmmoSetting",PropertyData="True"),(PropertyName="InitialSpawnDelay",PropertyData="10.000000"),(PropertyName="IsLooping",PropertyData="True"),(PropertyName="IsMeshVisibleDuringMinigame",PropertyData="True"),(PropertyName="IsPickupOnTouch",PropertyData="False"),(PropertyName="ItemSpawnScale",PropertyData="1.000000"),(PropertyName="LabelOverride",PropertyData="Plaque de générateur d\'objets"),(PropertyName="RandomOption",PropertyData="0"),(PropertyName="TimeBetweenSpawnsSeconds",PropertyData="15.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath="/Script/FortniteGame.FortMinigameProgressComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.FortMinigameProgress'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGame" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.VisibleInGame'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DropBox" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.DropBox'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Minigame_Spawner_Component" ExportPath="/Game/Athena/Items/Traps/MinigameSpawner/Minigame_Spawner_Component.Minigame_Spawner_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Minigame_Spawner_Component'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="LightRays" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.LightRays'"
+            Begin Object Name="M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0" ExportPath="/Script/Engine.MaterialInstanceDynamic'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.LightRays.M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0'"
+               Begin Object Name="M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0EditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.LightRays.M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0.M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0EditorOnlyData'"
+               End Object
+               Parent="/Script/Engine.MaterialInstanceConstant'/Game/Athena/Items/Traps/MinigameSpawner/M_Floor_ItemSpawn_Rays.M_Floor_ItemSpawn_Rays'"
+               ScalarParameterValues(0)=(ParameterInfo=(Name="Fade"),ParameterValue=1.000000,ExpressionGUID=9F6F6A2E41CC176E4A14A9A8C3614548)
+               BasePropertyOverrides=(TwoSided=True,BlendMode=BLEND_AlphaComposite,ShadingModel=MSM_Unlit,OpacityMaskClipValue=0.333300)
+               ReferencedTextureGuids(0)=5C7FC3F443D5F20867CE4B83A4D47CBA
+               EditorOnlyData="/Script/Engine.MaterialInstanceEditorOnlyData'M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0EditorOnlyData'"
+               LightingGuid=78CBB2054A8435E18488D99A47E9DF04
+            End Object
+            OverrideMaterials(0)="/Script/Engine.MaterialInstanceDynamic'M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="RotationSceneComponent" ExportPath="/Script/Engine.SceneComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.RotationSceneComponent'"
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PreviewStaticMesh" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.PreviewStaticMesh'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="RotationSceneComponent"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PreviewSkeletalMesh" ExportPath="/Script/Engine.SkeletalMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.PreviewSkeletalMesh'"
+            ForcedLodModel=0
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="RotationSceneComponent"
+            PrimaryComponentTick=(EndTickGroup=TG_PostPhysics)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Holo Loop Cue" ExportPath="/Script/Engine.AudioComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Holo Loop Cue'"
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceived" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.EnableWhenReceived'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceived" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.DisableWhenReceived'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SpawnItemWhenReceived" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.SpawnItemWhenReceived'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CycleToNextItemWhenReceived" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.CycleToNextItemWhenReceived'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TriggerOnPickedUpItem" ExportPath="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.TriggerOnPickedUpItem'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Creative_ItemPreview_Component" ExportPath="/Game/Creative/Devices/Common/Components/Creative_ItemPreview_Component.Creative_ItemPreview_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.Creative_ItemPreview_Component'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SetTrapActiveVisuals" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.SetTrapActiveVisuals'"
+            TheTimeline=(LengthMode=TL_TimelineLength,bReversePlayback=True,bPlaying=True,Length=0.680000,Position=0.680000,InterpFloats=((FloatCurve="/Script/Engine.CurveFloat'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:CurveFloat_1'",TrackName="TrapVisuals",FloatPropertyName="SetTrapActiveVisuals_TrapVisuals_FCDDC329493B66D22252689FF983B9FE")),TimelinePostUpdateFunc=Trap_Floor_Minigame_Spawner_C_1.SetTrapActiveVisuals__UpdateFunc,TimelineFinishedFunc=Trap_Floor_Minigame_Spawner_C_1.SetTrapActiveVisuals__FinishedFunc,PropertySetObject="/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C'Trap_Floor_Minigame_Spawner_C_1'",DirectionPropertyName="SetTrapActiveVisuals__Direction_FCDDC329493B66D22252689FF983B9FE")
+            bNetAddressable=True
+            CreationMethod=UserConstructionScript
+         End Object
+         Begin Object Name="PulseTrap" ExportPath="/Script/Engine.TimelineComponent'/Temp/Untitled_0.Untitled:PersistentLevel.Trap_Floor_Minigame_Spawner_C_1.PulseTrap'"
+            TheTimeline=(LengthMode=TL_TimelineLength,Length=0.600000,InterpFloats=((FloatCurve="/Script/Engine.CurveFloat'/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C:CurveFloat_4'",TrackName="Pulse",FloatPropertyName="PulseTrap_Pulse_A81913DA4596D77BA37716A793F8C4D2")),TimelinePostUpdateFunc=Trap_Floor_Minigame_Spawner_C_1.PulseTrap__UpdateFunc,TimelineFinishedFunc=Trap_Floor_Minigame_Spawner_C_1.PulseTrap__FinishedFunc,PropertySetObject="/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C'Trap_Floor_Minigame_Spawner_C_1'",DirectionPropertyName="PulseTrap__Direction_A81913DA4596D77BA37716A793F8C4D2")
+            bNetAddressable=True
+            CreationMethod=UserConstructionScript
+         End Object
+         Creative_ItemPreview_Component="Creative_ItemPreview_Component"
+         PreviewSkeletalMesh="PreviewSkeletalMesh"
+         TriggerOnPickedUpItem="TriggerOnPickedUpItem"
+         CycleToNextItemWhenReceived="CycleToNextItemWhenReceived"
+         SpawnItemWhenReceived="SpawnItemWhenReceived"
+         DisableWhenReceived="DisableWhenReceived"
+         EnableWhenReceived="EnableWhenReceived"
+         Holo Loop Cue="Holo Loop Cue"
+         PreviewStaticMesh="PreviewStaticMesh"
+         RotationSceneComponent="RotationSceneComponent"
+         LightRays="LightRays"
+         Minigame_Spawner_Component="Minigame_Spawner_Component"
+         DropBox="DropBox"
+         PulseTrap="/Script/Engine.TimelineComponent'PulseTrap'"
+         SetTrapActiveVisuals_TrapVisuals_FCDDC329493B66D22252689FF983B9FE=1.000000
+         SetTrapActiveVisuals="/Script/Engine.TimelineComponent'SetTrapActiveVisuals'"
+         TrapMID="/Script/Engine.MaterialInstanceDynamic'/Engine/Transient.MID_MI_Floor_Item_Spawn'"
+         RaysMID="/Script/Engine.MaterialInstanceDynamic'LightRays.M_Floor_ItemSpawn_Rays_0-89BB60D4E8A115C0'"
+         VisibleInGame="VisibleInGame"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         TrapData="/Script/FortniteGame.FortTrapItemDefinition'/Game/Athena/Items/Traps/MinigameSpawner/TID_Floor_Minigame_Spawner.TID_Floor_Minigame_Spawner'"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=00000000000000000000000041528B9A
+         LabelOverride="Plaque de générateur d\'objets"
+         RootComponent="StaticMeshComponent0"
+         PivotOffset=(X=-0.000000,Y=256.000000,Z=-0.000000)
+         ActorLabel="Plaque de générateur d\'objets"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

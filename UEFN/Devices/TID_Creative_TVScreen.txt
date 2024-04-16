@@ -1,0 +1,173 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C Name=BP_Creative_TV_Stream_C_1 Archetype="/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.Default__BP_Creative_TV_Stream_C'" ExportPath="/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1'"
+         Begin Object Class=/Script/FortniteGame.BaseBuildingStaticMeshComponent Name="StaticMeshComponent0" Archetype="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.Default__BP_Creative_TV_Stream_C:StaticMeshComponent0'" ExportPath="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.StaticMeshComponent0'"
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype="/Script/Engine.BoxComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.Default__BP_Creative_TV_Stream_C:BoundingBoxComponent'" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.BoundingBoxComponent'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype="/Script/Engine.StaticMeshComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.Default__BP_Creative_TV_Stream_C:EditorOnlyStaticMeshComponent'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.EditorOnlyStaticMeshComponent'"
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:ToyOptionsComponent_GEN_VARIABLE'" ExportPath="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ToyOptionsComponent'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype="/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortMinigameProgressComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.FortMinigameProgress'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype="/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:EnabledComponent_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.EnabledComponent'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.VisibleInGameComponent'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceivingFrom" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:EnableWhenReceivingFrom_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.EnableWhenReceivingFrom'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceivingFrom" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:DisableWhenReceivingFrom_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.DisableWhenReceivingFrom'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ChangeStreamWhenReceivingFrom" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:ChangeStreamWhenReceivingFrom_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ChangeStreamWhenReceivingFrom'"
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="Creative_UseRestriction_Component" Archetype="/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:Creative_UseRestriction_Component_GEN_VARIABLE'" ExportPath="/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.Creative_UseRestriction_Component'"
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="ScreenMesh" Archetype="/Script/Engine.StaticMeshComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:ScreenMesh_GEN_VARIABLE'" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ScreenMesh'"
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBD" ExportPath="/Script/Engine.MaterialInstanceDynamic'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ScreenMesh.M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBD'"
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBDEditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ScreenMesh.M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBD.M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBDEditorOnlyData'"
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="StopStreamWhenReceivingFrom" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:StopStreamWhenReceivingFrom_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.StopStreamWhenReceivingFrom'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ReleaseControlWhenReceivingFrom" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:ReleaseControlWhenReceivingFrom_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ReleaseControlWhenReceivingFrom'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="TransmitOnStreamStarted" Archetype="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:TransmitOnStreamStarted_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.TransmitOnStreamStarted'"
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="RestartStreamWhenReceivingFrom" Archetype="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Creative/Devices/TV_Screen/BP_Creative_TV_Stream.BP_Creative_TV_Stream_C:RestartStreamWhenReceivingFrom_GEN_VARIABLE'" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.RestartStreamWhenReceivingFrom'"
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath="/Script/FortniteGame.BaseBuildingStaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.StaticMeshComponent0'"
+            CachedMaxDrawDistance=21400.000000
+            RelativeLocation=(X=-2352.000000,Y=4320.000000,Z=1668.000000)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath="/Script/Engine.BoxComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.BoundingBoxComponent'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.EditorOnlyStaticMeshComponent'"
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath="/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ToyOptionsComponent'"
+            PlayerOptionData=(PropertyOverrides=((PropertyName="AttenuationDistancePresetValue",PropertyData="500000.000000"),(PropertyName="bAllowSwitchStream",PropertyData="True"),(PropertyName="bDestructible",PropertyData="False"),(PropertyName="bEnablePIP",PropertyData="False"),(PropertyName="bLooping",PropertyData="True"),(PropertyName="bResetOnEnable",PropertyData="False"),(PropertyName="bResetOnStreaming",PropertyData="False"),(PropertyName="bShowBorder",PropertyData="True"),(PropertyName="bShowLoading",PropertyData="True"),(PropertyName="EnabledIndex",PropertyData="0"),(PropertyName="InteractTime",PropertyData="0.000000"),(PropertyName="LabelOverride",PropertyData="TID_Creative_TVScreen"),(PropertyName="StreamPriority",PropertyData="0.000000"),(PropertyName="VideoID"),(PropertyName="Volume",PropertyData="1.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath="/Script/FortniteGame.FortMinigameProgressComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.FortMinigameProgress'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath="/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.EnabledComponent'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath="/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.VisibleInGameComponent'"
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceivingFrom" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.EnableWhenReceivingFrom'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceivingFrom" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.DisableWhenReceivingFrom'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ChangeStreamWhenReceivingFrom" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ChangeStreamWhenReceivingFrom'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Creative_UseRestriction_Component" ExportPath="/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.Creative_UseRestriction_Component'"
+            EnabledComponent="/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'TRASH_Creative_Enabled_Component_C_106'"
+            MinigameLogic="/Script/FortniteGame.FortMinigameProgressComponent'TRASH_FortMinigameProgressComponent_113'"
+            Valid Class List=(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,255)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ScreenMesh" ExportPath="/Script/Engine.StaticMeshComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ScreenMesh'"
+            Begin Object Name="M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBD" ExportPath="/Script/Engine.MaterialInstanceDynamic'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ScreenMesh.M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBD'"
+               Begin Object Name="M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBDEditorOnlyData" ExportPath="/Script/Engine.MaterialInstanceEditorOnlyData'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ScreenMesh.M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBD.M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBDEditorOnlyData'"
+               End Object
+               Parent="/Script/Engine.Material'/Game/Athena/Environments/Materials/M_Athena_TV_Screen_Stream_Creative.M_Athena_TV_Screen_Stream_Creative'"
+               ScalarParameterValues(0)=(ParameterInfo=(Name="Broadcast"),ParameterValue=1.000000,ExpressionGUID=27645A93479DA78AEFEECD8BE6A420D7)
+               ScalarParameterValues(1)=(ParameterInfo=(Name="Enabled"),ExpressionGUID=F885C9A8458F2B961C38F0881DF5DAD3)
+               ScalarParameterValues(2)=(ParameterInfo=(Name="Loading"),ExpressionGUID=0E3BD26E4415EC15074B2285A3B3549F)
+               BasePropertyOverrides=(BlendMode=BLEND_Translucent,ShadingModel=MSM_Unlit,OpacityMaskClipValue=0.160000)
+               ReferencedTextureGuids(0)=2EC60A634EF0D0B41077669AFD9B3B6B
+               ReferencedTextureGuids(1)=44BCC37745A30ADD0FC43FAA3D251574
+               ReferencedTextureGuids(2)=8E07504946502F7012CE45B0523079DD
+               ReferencedTextureGuids(3)=9604CD7342EA64F868BD3B9219610F43
+               ReferencedTextureGuids(4)=8AFC616643146BB72A1F09B883C5A907
+               ReferencedTextureGuids(5)=0F5D939548CE482FCD4C6B991872386D
+               ReferencedTextureGuids(6)=F771532B4F247E29EF7315A2243D4A72
+               EditorOnlyData="/Script/Engine.MaterialInstanceEditorOnlyData'M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBDEditorOnlyData'"
+               LightingGuid=D3EB3152477C31BC75314AAAAA460F8E
+            End Object
+            OverrideMaterials(0)="/Script/Engine.Material'/Game/Environments/FrontEnd/Materials/M_Monitor_Frame.M_Monitor_Frame'"
+            OverrideMaterials(1)="/Script/Engine.MaterialInstanceDynamic'M_Athena_TV_Screen_Stream_Creative_1-FB21A63F59865BBD'"
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StopStreamWhenReceivingFrom" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.StopStreamWhenReceivingFrom'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ReleaseControlWhenReceivingFrom" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.ReleaseControlWhenReceivingFrom'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TransmitOnStreamStarted" ExportPath="/Script/FortniteGame.FortGameplayTriggerMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.TransmitOnStreamStarted'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="RestartStreamWhenReceivingFrom" ExportPath="/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_TV_Stream_C_1.RestartStreamWhenReceivingFrom'"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         RestartStreamWhenReceivingFrom="RestartStreamWhenReceivingFrom"
+         TransmitOnStreamStarted="TransmitOnStreamStarted"
+         ReleaseControlWhenReceivingFrom="ReleaseControlWhenReceivingFrom"
+         StopStreamWhenReceivingFrom="StopStreamWhenReceivingFrom"
+         ScreenMesh="ScreenMesh"
+         Creative_UseRestriction_Component="Creative_UseRestriction_Component"
+         ChangeStreamWhenReceivingFrom="ChangeStreamWhenReceivingFrom"
+         DisableWhenReceivingFrom="DisableWhenReceivingFrom"
+         EnableWhenReceivingFrom="EnableWhenReceivingFrom"
+         MediaSoundComponent="/Script/MediaAssets.MediaSoundComponent'TRASH_MediaSoundComponent_103'"
+         Streaming Manager="CreativeStreamingManagerComponent"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=000000000000000000000000DA9B1E7E
+         LabelOverride="TID_Creative_TVScreen"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="TID_Creative_TVScreen"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

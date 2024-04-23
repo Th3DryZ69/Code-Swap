@@ -55,6 +55,7 @@ CE FA 17 15 FB 0B 3D 18 C3 BF 0C 4C A9 A5 4D AB 5A 0A 4A A0 F8 20 11 89 AB E5 F5
 ## Step 8)
 - go 'Edit' > 'Overwrite' > paste code hex and Apply 
 
+![Screen](../../Assets/OrangeCopy/OrangeCopy5e.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy8.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy10.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy11.jpg)

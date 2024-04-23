@@ -2,7 +2,7 @@
 Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
 - follow this video 
 
-<!-- ![video](../../Assets/SVID_20240423_174153_1.mp4) -->
+[video](../../Assets/SVID_20240423_174153_1.mp4)
 
 <video width="320" height="240" controls>
   <source src="../../Assets/SVID_20240423_174153_1.mp4" type="video/mp4">

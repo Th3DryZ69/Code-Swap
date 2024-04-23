@@ -1,5 +1,5 @@
 Step 1)
-go 'Open or Create File' and select pakchunk20-Android_ASTCClient.ucas
+go 'Open or Create File' > 'Open File' and select pakchunk20-Android_ASTCClient.ucas
 
 Step 2)
 go 'Select Range' > First Address: 010756D7 > Last Address: 01075D17 and Search

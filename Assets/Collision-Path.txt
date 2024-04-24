@@ -1,2 +1,2 @@
 Trap Barrier : FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_Barrier | Custom (Patch)
-
+Adventure DigSpot : FortniteGame/Content/Missions/Primary/Season_Adventure/Landmark/Props/BP_Adventure_DigSpot | Custom ; Turn Off Decal-2

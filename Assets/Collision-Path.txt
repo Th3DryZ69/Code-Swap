@@ -1,2 +1,5 @@
 Trap Barrier : FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_Barrier | Custom (Patch)
 Adventure DigSpot : FortniteGame/Content/Missions/Primary/Season_Adventure/Landmark/Props/BP_Adventure_DigSpot | Custom ; Turn Off Decal-2
+Rail Trap Turret : FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Rail_Turret | Custom ; Trap AI Perception Stimuli Source Component-2
+Wall Trap: Armor : FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Armor | Custom ; Trap AI Perception Stimuli Source Component-2
+Wall Dart : FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Darts | Custom ; Trap AI Perception Stimuli Source Component-2

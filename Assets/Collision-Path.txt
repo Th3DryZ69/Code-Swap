@@ -3,3 +3,6 @@ Adventure DigSpot : FortniteGame/Content/Missions/Primary/Season_Adventure/Landm
 Rail Trap Turret : FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Rail_Turret | Custom ; Trap AI Perception Stimuli Source Component-2
 Wall Trap: Armor : FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Armor | Custom ; Trap AI Perception Stimuli Source Component-2
 Wall Dart : FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Darts | Custom ; Trap AI Perception Stimuli Source Component-2
+SFB Booty : FortniteGame/Content/Missions/Secondary/SearchForBooty/Props/SFB_Booty | Custom ; Chest Icon-2
+Maze Patrol : FortniteGame/Content/Missions/Primary/EventLandmarks/Season11/HauntedMaze/Props/BP_MazePatrolEndPoint | Custom ; Light Fade In Time-2
+Uncle Brolly : FortniteGame/Plugins/GameFeatures/Mantis/Content/Items/UncleBrolly/Abilities/Block/B_Uncle_Brolly_Block_Collision | Custom ; is Open-2

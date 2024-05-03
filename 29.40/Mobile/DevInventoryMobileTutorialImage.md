@@ -4,7 +4,7 @@ Download [Files](https://play.google.com/store/apps/details?id=com.marc.files)
 
 ## Step 2)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor&pcampaignid=web_share)
-- go 'Open or Create File' > 'Open File' and select pakchunk20-Android_ASTCClient.ucas
+- go 'Open or Create File' > 'Open File' and select ```pakchunk20-Android_ASTCClient.ucas```
 
 ![Screen](../../Assets/DevInventory/DevInventory1.jpg)
 ![Screen](../../Assets/DevInventory/DevInventory2.jpg)

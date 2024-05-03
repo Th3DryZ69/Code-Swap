@@ -1,0 +1,11 @@
+Step 1)
+go 'Open or Create File' > 'Open File' and select pakchunk20-Android_ASTCClient.ucas
+
+Step 2)
+go 'Select Range' > First Address: 10771A7 > Last Address: 10777EF and Search
+
+Step 3)
+go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
+
+Step 4)
+go to the top left and press the last save icon

@@ -6,7 +6,7 @@ Download [Files](https://play.google.com/store/apps/details?id=com.marc.files)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor&pcampaignid=web_share)
 - go 'Open or Create File' > 'Open File' and select ```pakchunk10_s21-Android_ASTCClient.ucas```
 
-## Step 3) Orange Copy Part 1:
+## Step 3)
 - go 'Select Range' > First Address: ```EBA7660``` > Last Address: ```EBA92EE``` and Select
 
 ## Step 4)

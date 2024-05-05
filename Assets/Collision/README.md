@@ -3,7 +3,7 @@
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_Portal
 ```
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***Barrer Island Hub*** :  
@@ -11,7 +11,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_Portal
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad
 ```
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***Barrer Island Hub 2*** :  
@@ -19,7 +19,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad
 ``` 
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad_02
 ```
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***MM Portal Single*** :  
@@ -27,7 +27,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Single
 ```
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***MM Portal Trio*** :  
@@ -35,7 +35,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Sing
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Trio
 ```
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***MM Portal 1*** :  
@@ -43,7 +43,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Trio
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portals1
 ```
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***Air Reactor Power Plant*** :  
@@ -51,23 +51,23 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portals1
 ```
 FortniteGame/Content/Athena/Environments/BluePrints/DUDEBRO/BGA_DudeBro_Mini
 ```
-
+```FortTriggerOnlyPawns```
 
 ---
 ***Trap Barrier*** :  
 ![Screen](./Trap%20Barrier.png)
 ```
 FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_Barrier
-``` 
-```Custom``` (Patch)
+```
+```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2 (Patch)
 
 ---
 ***Trap Elimination Zone & Trap Mutator Zone*** :  
 ![Screen](./Trap%20Elimination%20Zone%20&%20Trap%20Mutator%20Zone.png)
 ```
-FortniteGame/Content/Items/Traps/BluePrints/Device_Floor_Barrier
+FortniteGame/Content/Items/Traps/BluePrints/Toys/Device_Volume_Floor
 ```
-```Custom``` (Patch)
+```Custom``` ; ```NoCollision``` (Patch) !!!.utoc
 
 ---
 ***All Trap Vehicle Spawner*** :  
@@ -75,7 +75,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Device_Floor_Barrier
 ```
 FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent
 ```
-
+```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
 
 ---
 ***Trap Poison*** :  
@@ -83,7 +83,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent
 ```
 FortniteGame/Content/Athena/Items/Traps/PoisonDartTrap/BP_PoisonDartTrap_Floor
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Zapper Trap*** :  
@@ -91,7 +91,7 @@ FortniteGame/Content/Athena/Items/Traps/PoisonDartTrap/BP_PoisonDartTrap_Floor
 ``` 
 FortniteGame/Content/Athena/Items/Traps/ZippyTrout/BP_ZippyTroutTrap_Floor
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Retractable Wall Spikes*** :  
@@ -99,7 +99,7 @@ FortniteGame/Content/Athena/Items/Traps/ZippyTrout/BP_ZippyTroutTrap_Floor
 ``` 
 FortniteGame/Content/Items/Traps/Blueprints/Athena/Trap_Athena_Spikes
 ``` 
-
+```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
 
 ---
 ***Item Spawner Plate*** :  
@@ -107,7 +107,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Athena/Trap_Athena_Spikes
 ``` 
 FortniteGame/Content/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner
 ``` 
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***Team Settings & Inventory Trap*** :  
@@ -115,7 +115,7 @@ FortniteGame/Content/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spaw
 ``` 
 FortniteGame/Content/Athena/Items/Traps/GameInventoryToy/Trap_Floor_GameStartingInventory
 ```
-
+```Custom``` !!!.utoc
 
 ---
 ***Zipline*** :  
@@ -123,7 +123,7 @@ FortniteGame/Content/Athena/Items/Traps/GameInventoryToy/Trap_Floor_GameStarting
 ```
 FortniteGame/Content/Athena/Items/Consumables/Zipline/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
 ``` 
-
+```FortTriggerOnlyInteractions```
 
 ---
 ***Hologram*** :  
@@ -131,7 +131,7 @@ FortniteGame/Content/Athena/Items/Consumables/Zipline/SplineZipline/BP_Athena_En
 ```
 FortniteGame/Content/Missions/Primary/OB_FarmsteadFort/HologramStations/A_Parent_Hologram
 ``` 
-
+```FortTriggerOnlyInteractions```
 
 ---
 ***Switch Console*** :  
@@ -139,7 +139,7 @@ FortniteGame/Content/Missions/Primary/OB_FarmsteadFort/HologramStations/A_Parent
 ``` 
 FortniteGame/Content/Missions/Primary/DeliverGoods/Props/Switch_Console
 ``` 
-
+```FortTriggerOnlyInteractions```
 
 ---
 ***Adventure DigSpot (Zone)*** :  
@@ -163,7 +163,7 @@ FortniteGame/Content/Missions/Primary/EventLandmarks/Season11/HauntedMaze/Props/
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Free_Direction_Pad
 ``` 
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Jump Pad (Up)*** :  
@@ -171,7 +171,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Free_Directio
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Pad
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Sound Wall*** :  
@@ -179,7 +179,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Pad
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Wall_Speaker
 ``` 
-
+```Custom``` ; ```FortTriggerOnlyInteractions```
 
 ---
 ***Healing Pad*** :  
@@ -187,7 +187,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Wall_Speaker
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Health_Master
 ``` 
-
+```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
 
 ---
 ***Floor Launcher*** :  
@@ -195,7 +195,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Health_Master
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Launcher
 ``` 
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Defender Post*** :  
@@ -203,7 +203,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Launcher
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Defenders/Trap_Floor_Defender_Master
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Broadside*** :  
@@ -211,7 +211,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Defenders/Trap_Floor_Defender_Master
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Wall_Cannons
 ```
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***Tar Pit*** :  
@@ -219,7 +219,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Wall_Cannons
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Tar
 ```
-
+```Custom``` ; ```NoCollision```
 
 ---
 ***Wooden Floor Spikes*** :  
@@ -227,7 +227,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Tar
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Spikes_Wood
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Ceiling Gas Trap*** :  
@@ -235,7 +235,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Spikes_Wood
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Gas
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Chiller*** :  
@@ -243,7 +243,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Gas
 ```
 FortniteGame/Content/Athena/Items/Traps/FreezeTrap/Trap_Floor_Ice_Athena
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Boost Pad (Curve)*** :  
@@ -251,7 +251,7 @@ FortniteGame/Content/Athena/Items/Traps/FreezeTrap/Trap_Floor_Ice_Athena
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_HoverboardSpeed_Curve
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Boost Pad*** :  
@@ -259,7 +259,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_HoverboardSpeed_Curve
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Hoverboard_Speed
 ``` 
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Vindertech Goop*** :  
@@ -267,7 +267,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Hoverboard_Speed
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Goop
 ```
-
+```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
 
 ---
 ***Flame Grill Floor Trap (STW)*** :  
@@ -275,13 +275,13 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Goop
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_FlameGrill
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Rail Trap Turret*** :  
 ![Screen](./Rail%20Trap%20Turret.png)
 ```
-FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Rail_Turret
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Rail_Turret
 ```
 ```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
 
@@ -291,15 +291,15 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Tr
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Mechstructor
 ```
-
+```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
 
 ---
 ***Wall Lights*** :  
 ![Screen](./Wall%20Lights.png)
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Light
-``` 
-
+```
+```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
 
 ---
 ***Wall Launcher*** :  
@@ -307,7 +307,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Tr
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Launcher
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Wall Spikes*** :  
@@ -315,7 +315,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Tr
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Wall_Spikes
 ```
-
+```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
 
 ---
 ***Ceiling Drop Trap*** :  
@@ -323,13 +323,13 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Wall_Spikes
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Falling
 ```
-
+```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
 
 ---
 ***Wall Trap: Armor*** :  
 ![Screen](./Wall%20Trap%20Armor.png)
 ```
-FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Armor
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Armor
 ```
 ```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
 
@@ -339,7 +339,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Tr
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Electric
 ```
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Ceiling Zapper*** :  
@@ -347,12 +347,12 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Electric
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_ElectricWeak
 ``` 
-
+```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Wall Dart*** :  
 ![Screen](./Wall%20Darts.png)
-``` 
+```
 FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Darts
 ```
 ```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
@@ -363,7 +363,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Darts
 ``` 
 FortniteGame/Content/Athena/BuildingActors/ConsumableBGAs/CBGA_Parent
 ```
-
+```FortTriggerOnlyPawns```
 
 ---
 ***Uncle Brolly*** :  
@@ -372,3 +372,19 @@ FortniteGame/Content/Athena/BuildingActors/ConsumableBGAs/CBGA_Parent
 FortniteGame/Plugins/GameFeatures/Mantis/Content/Items/UncleBrolly/Abilities/Block/B_Uncle_Brolly_Block_Collision
 ```
 ```Custom``` ; ```is Open```-2
+
+---
+***Trap Wall Electric*** :  
+![Screen](./Uncle%20Brolly%20(Blocked).png)
+```
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Electric
+```
+```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
+
+---
+***Trap Ceiling BouncePad (STW)*** :  
+![Screen](./Uncle%20Brolly%20(Blocked).png)
+```
+FortniteGame/Content/Athena/Items/Traps/BouncePad/Trap_Ceiling_BouncePad
+```
+```Custom``` ; ```FortCameraOnly```

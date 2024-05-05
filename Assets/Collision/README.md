@@ -55,7 +55,7 @@ FortniteGame/Content/Athena/Environments/BluePrints/DUDEBRO/BGA_DudeBro_Mini
 
 ---
 ***Trap Barrier*** :  
-![Screen](./Trap%20Barrier.png)
+![Screen](./T-Icon-Device-BarrierVolume.png)
 ```
 FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_Barrier
 ```
@@ -63,7 +63,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_Barrier
 
 ---
 ***Trap Elimination Zone & Trap Mutator Zone*** :  
-![Screen](./Trap%20Elimination%20Zone%20&%20Trap%20Mutator%20Zone.png)
+![Screen](./T-Icon-Device-EliminationVolume.png) ![Screen](./T-Icon-Device-NoWeaponZone.png)
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Toys/Device_Volume_Floor
 ```
@@ -71,7 +71,8 @@ FortniteGame/Content/Items/Traps/BluePrints/Toys/Device_Volume_Floor
 
 ---
 ***All Trap Vehicle Spawner*** :  
-![Screen](./All%20Trap%20Vehicle%20Spawner.png)
+![Screen](./Icon-Mission-Minecart-XL.png) ![Screen](./All%20Trap%20Vehicle%20Spawner.png)
+<!-- ![Screen](./T-Icon-Device-Hoverboard-Spawn.png) ![Screen](./T-Icon-Vehicle-Baller-L.png) ![Screen](./T-Icon-Vehicle-Biplane.png) ![Screen](./T-Icon-Vehicle-Cannon.png) ![Screen](./T-Icon-Vehicle-GolfCart.png) ![Screen](./T-Icon-Vehicle-QuadBike.png) ![Screen](./T-Icon-Vehicle-ShoppingCart.png)  -->
 ```
 FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent
 ```
@@ -79,7 +80,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent
 
 ---
 ***Trap Poison*** :  
-![Screen](./Trap%20Poison.png)
+![Screen](./T-Items2-SM-BlowDart-Floor.png)
 ```
 FortniteGame/Content/Athena/Items/Traps/PoisonDartTrap/BP_PoisonDartTrap_Floor
 ```
@@ -103,7 +104,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Athena/Trap_Athena_Spikes
 
 ---
 ***Item Spawner Plate*** :  
-![Screen](./Item%20Spawner%20Plate.png)
+![Screen](./T-Icon-Device-ItemSpawner.png)
 ``` 
 FortniteGame/Content/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner
 ``` 
@@ -279,7 +280,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Tr
 
 ---
 ***Rail Trap Turret*** :  
-![Screen](./Rail%20Trap%20Turret.png)
+![Screen](./Turret.png) ![Screen](./Rail%20Trap%20Turret.png)
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Rail_Turret
 ```
@@ -327,7 +328,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Falling
 
 ---
 ***Wall Trap: Armor*** :  
-![Screen](./Wall%20Trap%20Armor.png)
+![Screen](./Armor.png) ![Screen](./Wall%20Trap%20Armor.png)
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Armor
 ```
@@ -375,7 +376,7 @@ FortniteGame/Plugins/GameFeatures/Mantis/Content/Items/UncleBrolly/Abilities/Blo
 
 ---
 ***Trap Wall Electric*** :  
-![Screen](./Trap%20Wall%20Electric.png)
+![Screen](./T-Icon-Weapons-Electric-Trap-Wall.png) ![Screen](./Trap%20Wall%20Electric.png)
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Electric
 ```
@@ -383,7 +384,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Tr
 
 ---
 ***Trap Ceiling BouncePad (STW)*** :  
-![Screen](./Trap%20Ceiling%20BouncePad%20(STW).png)
+![Screen](./T-Icon-Weapons-S-Floor-Jump-FullTile.png)
 ```
 FortniteGame/Content/Athena/Items/Traps/BouncePad/Trap_Ceiling_BouncePad
 ```

@@ -375,7 +375,7 @@ FortniteGame/Plugins/GameFeatures/Mantis/Content/Items/UncleBrolly/Abilities/Blo
 
 ---
 ***Trap Wall Electric*** :  
-![Screen](./Uncle%20Brolly%20(Blocked).png)
+![Screen](./Trap%20Wall%20Electric.png)
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Electric
 ```
@@ -383,7 +383,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Tr
 
 ---
 ***Trap Ceiling BouncePad (STW)*** :  
-![Screen](./Uncle%20Brolly%20(Blocked).png)
+![Screen](./Trap%20Ceiling%20BouncePad%20(STW).png)
 ```
 FortniteGame/Content/Athena/Items/Traps/BouncePad/Trap_Ceiling_BouncePad
 ```

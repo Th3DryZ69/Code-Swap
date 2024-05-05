@@ -1,4 +1,4 @@
-***Portal Island*** : 
+***Portal Island*** :  
 ![Screen](./Portal%20Island.png)
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_Portal 
@@ -6,7 +6,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_Portal
 
 
 ---
-***Barrer Island Hub*** : 
+***Barrer Island Hub*** :  
 ![Screen](./Barrer%20Island%20Hub.png)
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad
@@ -14,7 +14,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad
 
 
 ---
-***Barrer Island Hub 2*** :
+***Barrer Island Hub 2*** :  
 ![Screen](./Barrer%20Island%20Hub%202.png)
 ``` 
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad_02 
@@ -22,7 +22,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad
 
 
 ---
-***MM Portal Single*** : 
+***MM Portal Single*** :  
 ![Screen](./MM%20Portal%20Single.png)
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Single
@@ -30,7 +30,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Sing
 
 
 ---
-***MM Portal Trio*** : 
+***MM Portal Trio*** :  
 ![Screen](./MM%20Portal%20Trio.png)
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Trio
@@ -38,7 +38,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Trio
 
 
 ---
-***MM Portal 1*** :
+***MM Portal 1*** :  
 ![Screen](./MM%20Portal%201.png)
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portals1
@@ -46,7 +46,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portals1
 
 
 ---
-***Air Reactor Power Plant*** : 
+***Air Reactor Power Plant*** :  
 ![Screen](./Air%20Reactor%20Power%20Plant.png)
 ```
 FortniteGame/Content/Athena/Environments/BluePrints/DUDEBRO/BGA_DudeBro_Mini
@@ -62,7 +62,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_Barrier
 ```Custom``` (Patch)
 
 ---
-***Trap Elimination Zone & Trap Mutator Zone*** : 
+***Trap Elimination Zone & Trap Mutator Zone*** :  
 ![Screen](./Trap%20Elimination%20Zone%20&%20Trap%20Mutator%20Zone.png)
 ```
 FortniteGame/Content/Items/Traps/BluePrints/Device_Floor_Barrier 
@@ -70,7 +70,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Device_Floor_Barrier
 ```Custom``` (Patch)
 
 ---
-***All Trap Vehicle Spawner*** : 
+***All Trap Vehicle Spawner*** :  
 ![Screen](./All%20Trap%20Vehicle%20Spawner.png)
 ```
 FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent
@@ -78,7 +78,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent
 
 
 ---
-***Trap Poison*** : 
+***Trap Poison*** :  
 ![Screen](./Trap%20Poison.png)
 ```
 FortniteGame/Content/Athena/Items/Traps/PoisonDartTrap/BP_PoisonDartTrap_Floor 
@@ -86,7 +86,7 @@ FortniteGame/Content/Athena/Items/Traps/PoisonDartTrap/BP_PoisonDartTrap_Floor
 
 
 ---
-***Zapper Trap*** : 
+***Zapper Trap*** :  
 ![Screen](./Zapper%20Trap.png)
 ``` 
 FortniteGame/Content/Athena/Items/Traps/ZippyTrout/BP_ZippyTroutTrap_Floor 
@@ -94,7 +94,7 @@ FortniteGame/Content/Athena/Items/Traps/ZippyTrout/BP_ZippyTroutTrap_Floor
 
 
 ---
-***Retractable Wall Spikes*** : 
+***Retractable Wall Spikes*** :  
 ![Screen](./Retractable%20Wall%20Spikes.png)
 ``` 
 FortniteGame/Content/Items/Traps/Blueprints/Athena/Trap_Athena_Spikes 
@@ -102,7 +102,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Athena/Trap_Athena_Spikes
 
 
 ---
-***Item Spawner Plate*** : 
+***Item Spawner Plate*** :  
 ![Screen](./Item%20Spawner%20Plate.png)
 ``` 
 FortniteGame/Content/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner 
@@ -110,7 +110,7 @@ FortniteGame/Content/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spaw
 
 
 ---
-***Team Settings & Inventory Trap*** : 
+***Team Settings & Inventory Trap*** :  
 ![Screen](./Team%20Settings%20&%20Inventory%20Trap.png)
 ``` 
 FortniteGame/Content/Athena/Items/Traps/GameInventoryToy/Trap_Floor_GameStartingInventory 
@@ -134,7 +134,7 @@ FortniteGame/Content/Missions/Primary/OB_FarmsteadFort/HologramStations/A_Parent
 
 
 ---
-***Switch Console*** : 
+***Switch Console*** :  
 ![Screen](./Switch%20Console.png)
 ``` 
 FortniteGame/Content/Missions/Primary/DeliverGoods/Props/Switch_Console 
@@ -142,8 +142,8 @@ FortniteGame/Content/Missions/Primary/DeliverGoods/Props/Switch_Console
 
 
 ---
-***Adventure DigSpot (Zone)*** : 
-![Screen](./Adventure%20DigSpot.png) | ![Screen](./Adventure%20DigSpot%20Chest.png)
+***Adventure DigSpot (Zone)*** :  
+![Screen](./Adventure%20DigSpot.png)  ![Screen](./Adventure%20DigSpot%20Chest.png)
 ``` 
 FortniteGame/Content/Missions/Primary/Season_Adventure/Landmark/Props/BP_Adventure_DigSpot 
 ```
@@ -166,7 +166,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Free_Directio
 
 
 ---
-***Jump Pad (Up)*** : 
+***Jump Pad (Up)*** :  
 ![Screen](./Jump%20Pad%20(Up).png)
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Pad 
@@ -174,7 +174,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Pad
 
 
 ---
-***Sound Wall*** : 
+***Sound Wall*** :  
 ![Screen](./Sound%20Wall.png)
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Wall_Speaker 
@@ -190,7 +190,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Health_Master
 
 
 ---
-***Floor Launcher*** : 
+***Floor Launcher*** :  
 ![Screen](./Floor%20Launcher.png)
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Launcher  
@@ -222,7 +222,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Tar
 
 
 ---
-***Wooden Floor Spikes*** : 
+***Wooden Floor Spikes*** :  
 ![Screen](./Wooden%20Floor%20Spikes.png)
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Spikes_Wood 
@@ -230,7 +230,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Spikes_Wood
 
 
 ---
-***Ceiling Gas Trap*** : 
+***Ceiling Gas Trap*** :  
 ![Screen](./Ceiling%20Gas%20Trap.png)
 ``` 
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Gas 
@@ -270,7 +270,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_Goop
 
 
 ---
-***Flame Grill Floor Trap (STW)*** : 
+***Flame Grill Floor Trap (STW)*** :  
 ![Screen](./Flame%20Grill%20Floor%20Trap.png) 
 ```
 FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_FlameGrill  
@@ -350,7 +350,7 @@ FortniteGame/Content/Items/Traps/BluePrints/Trap_Ceiling_ElectricWeak
 
 
 ---
-***Wall Dart*** : 
+***Wall Dart*** :  
 ![Screen](./Wall%20Darts.png)
 ``` 
 FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Darts 
@@ -358,7 +358,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Darts
 ```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
 
 ---
-***Golden Mushroom*** : 
+***Golden Mushroom*** :  
 ![Screen](./Golden%20Mushroom.png)
 ``` 
 FortniteGame/Content/Athena/BuildingActors/ConsumableBGAs/CBGA_Parent 

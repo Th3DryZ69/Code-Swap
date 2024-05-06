@@ -1,7 +1,0 @@
-pakchunk20-WindowsClient.ucas
-
-search all:
-50 42 57 41 5F 4D 31 5F 44 6F 6F 72 43
-
-replace all:
-00 00 00 00 00 00 00 00 00 00 00 00 00

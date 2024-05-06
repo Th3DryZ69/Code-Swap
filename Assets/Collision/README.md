@@ -1,4 +1,4 @@
-:***Portal Island*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/CP_Prop_Island_Portal.txt)  
+***Portal Island*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/CP_Prop_Island_Portal.txt)  
 ![Screen](./Portal%20Island.png)
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_Portal

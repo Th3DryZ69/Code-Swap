@@ -1,0 +1,93 @@
+UEFN PATCH 29.40 patch
+
+Cannot modify cooked assets
+103791DA <— Offset (1/2)
+
+32 C0 replace this
+90 90 with this
+
+103791D1 <— Offset (2/2)
+
+74 replace this
+EB with this
+
+Unable to edit cooked asset
+9ECCB4C <— Offset (1/1)
+
+32 DB replace this 
+B3 01 with this
+
+Copy Objects
+9C65D6B <— Offset (1/1)
+
+0F 84 05 03 00 00 replace this 
+90 90 90 90 90 90 with this
+
+Package is cooked or missing editor data\n
+9C66363 <— Offset (1/1)
+
+74 replace this 
+EB with this
+
+UEFN PATCH 29.40 Patch Frontend
+
+The binding is from a different library
+FB474CA <- Offset (1/2)
+74 replace this 
+EB with this
+
+FB4AD73 <- Offset (2/2)
+74 replace this 
+EB with this
+
+Animation Fix
+B5A7ABC <- Offset (1/1)
+0F 84 8B replace this
+E9 8C 00 with this
+
+UEFN PATCH 29.40 patch 2
+
+Cannot modify cooked assets
+103792DA <— Offset (1/2)
+
+32 C0 replace this
+90 90 with this
+
+103792D1 <— Offset (2/2)
+
+74 replace this
+EB with this
+
+Unable to edit cooked asset
+9ECCC4C <— Offset (1/1)
+
+32 DB replace this 
+B3 01 with this
+
+Copy Objects
+9C65E6B <— Offset (1/1)
+
+0F 84 05 03 00 00 replace this 
+90 90 90 90 90 90 with this
+
+Package is cooked or missing editor data\n
+9C66463 <— Offset (1/1)
+
+74 replace this 
+EB with this
+
+UEFN PATCH 29.40 Patch Frontend 2
+
+The binding is from a different library
+FB475CA <- Offset (1/2)
+74 replace this 
+EB with this
+
+FB4AE73 <- Offset (2/2)
+74 replace this 
+EB with this
+
+Animation Fix
+B5A7BBC <- Offset (1/1)
+0F 84 8B replace this
+E9 8C 00 with this

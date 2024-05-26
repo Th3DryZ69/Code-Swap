@@ -5,10 +5,10 @@ Download [Files](https://play.google.com/store/apps/details?id=com.marc.files)
 
 ## Step 2)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor&pcampaignid=web_share)
-- go 'Open or Create File' > 'Open File' and select ```pakchunk10_s21-Android_ASTCClient.ucas```
+- go 'Open or Create File' > 'Open File' and select ```pakchunk10_s22-Android_ASTCClient.ucas```
 
 ## Step 3)
-- go 'Select Range' > First Address: ```EB9DAE0``` > Last Address: ```EB9F76E``` and Select
+- go 'Select Range' > First Address: ```1123A540``` > Last Address: ```1123C1CE``` and Select
 
 ## Step 4)
 - copy code hex: 

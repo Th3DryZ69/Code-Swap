@@ -131,7 +131,7 @@ FortniteGame/Content/Athena/Items/Consumables/Zipline/SplineZipline/BP_Athena_En
 ![Screen](./Hologram.png)
 ```
 FortniteGame/Content/Missions/Primary/OB_FarmsteadFort/HologramStations/A_Parent_Hologram
-``` 
+```
 ```FortTriggerOnlyInteractions```
 
 ---
@@ -139,7 +139,7 @@ FortniteGame/Content/Missions/Primary/OB_FarmsteadFort/HologramStations/A_Parent
 ![Screen](./Switch%20Console.png)
 ``` 
 FortniteGame/Content/Missions/Primary/DeliverGoods/Props/Switch_Console
-``` 
+```
 ```FortTriggerOnlyInteractions```
 
 ---
@@ -162,14 +162,14 @@ FortniteGame/Content/Missions/Primary/EventLandmarks/Season11/HauntedMaze/Props/
 ***Jump Pad (Directional)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Player_Jump_Free_Direction_Pad.txt)  
 ![Screen](./Jump%20Pad%20(Directional).png)
 ```
-FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Free_Direction_Pad
-``` 
+FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Free_Direction_Pad
+```
 ```Custom``` ; ```FortCameraOnly```
 
 ---
 ***Jump Pad (Up)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Player_Jump_Pad.txt)  
 ![Screen](./Jump%20Pad%20(Up).png)
-``` 
+```
 FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Pad
 ```
 ```Custom``` ; ```FortCameraOnly```

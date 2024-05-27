@@ -3,12 +3,7 @@
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_Portal
 ```
-```
-Custom
-```
-```
-NoCollision
-```
+```Custom``` ; ```NoCollision```
 
 ---
 ***Barrer Island Hub*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/CP_Prop_Island_PlayerSpawnPad.txt)  

@@ -3,7 +3,12 @@
 ```
 FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_Portal
 ```
-```Custom``` ; ```NoCollision```
+```
+Custom
+```
+```
+NoCollision
+```
 
 ---
 ***Barrer Island Hub*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/CP_Prop_Island_PlayerSpawnPad.txt)  
@@ -372,7 +377,7 @@ FortniteGame/Content/Athena/BuildingActors/ConsumableBGAs/CBGA_Parent
 ```
 FortniteGame/Plugins/GameFeatures/Mantis/Content/Items/UncleBrolly/Abilities/Block/B_Uncle_Brolly_Block_Collision
 ```
-```Custom``` ; ```is Open```-2
+```Custom``` ; ```Is Open```-2
 
 ---
 ***Trap Wall Electric*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Wall_Electric.txt)  

@@ -1,46 +1,46 @@
-UEFN PATCH 30.00
+UEFN PATCH 30.01
 
 Cannot modify cooked assets
-1027B7CA <— Offset (1/2)
+1027BD7A <— Offset (1/2)
 
 32 C0 replace this
 90 90 with this
 
-1027B7C1 <— Offset (2/2)
+1027BD71 <— Offset (2/2)
 
 74 replace this
 EB with this
 
 Unable to edit cooked asset
-9E9E047 <— Offset (1/1)
+9E9E7D7 <— Offset (1/1)
 
 32 DB replace this 
 B3 01 with this
 
 Copy Objects
-9C3E45E <— Offset (1/1)
+9C3EBEE <— Offset (1/1)
 
 0F 84 F2 02 00 00 replace this 
 90 90 90 90 90 90 with this
 
 Package is cooked or missing editor data\n
-9C3EA3C <— Offset (1/1)
+9C3F1CC <— Offset (1/1)
 
 74 replace this 
 EB with this
 
-UEFN PATCH 30.00 Frontend
+UEFN PATCH 30.01 Frontend
 
 The binding is from a different library
-FEDAE48 <- Offset (1/2)
+FEDB3F8 <- Offset (1/2)
 74 replace this 
 EB with this
 
-FEDE503 <- Offset (2/2)
+FEDEAB3 <- Offset (2/2)
 74 replace this 
 EB with this
 
 Animation Fix
-B5BBCA3 <- Offset (1/1)
+B5BC423 <- Offset (1/1)
 74 replace this
 EB with this

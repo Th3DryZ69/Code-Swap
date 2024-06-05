@@ -12,7 +12,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy3.jpg)
 
 ## Step 3) Orange Copy Part 1:
-- go 'Select Range' > First Address: ```1123A540``` > Last Address: ```1123C1CE``` and Select
+- go 'Select Range' > First Address: ```11281AB0``` > Last Address: ```1128373E``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy5.jpg)

@@ -1,0 +1,18 @@
+{
+    "file_path": "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Binaries\\Win64\\UnrealEditorFortnite-Win64-Shipping.exe",
+    "offset_one": "18595383",
+    "hex_to_replace_one": "32 C0",
+    "replacement_hex_one": "90 90",
+
+    "offset_two": "9F51590",
+    "hex_to_replace_two": "32 DB",
+    "replacement_hex_two": "B3 01",
+
+    "offset_three": "9CE2CDB",
+    "hex_to_replace_three": "0F 84 8B 04 00 00",
+    "replacement_hex_three": "90 90 90 90 90 90",
+
+    "offset_four": "9CE33BD",
+    "hex_to_replace_four": "74",
+    "replacement_hex_four": "EB"
+}

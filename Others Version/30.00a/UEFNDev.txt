@@ -44,3 +44,14 @@ Animation Fix
 B5BC423 <- Offset (1/1)
 74 replace this
 EB with this
+
+UEFN PATCH 30.01 Item Definition Editing Fix
+
+launch options support
+D086B29 <- Offset (1/1)
+E8 32 1B FE FF replace this 
+90 90 90 90 90 with this
+
+then create a shortcut to the exe with the options 
+-disableplugins="AtomVK,ValkyrieFortnite"
+no valkyrie pak not needed

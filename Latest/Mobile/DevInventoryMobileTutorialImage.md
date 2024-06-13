@@ -1,3 +1,4 @@
+# !!!!! Read the steps carefully and do not necessarily trust everything that is on the image, whether the name of the pak or the offsets. !!!!
 ## Step 1)
 Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
 - follow this [video](https://youtu.be/8N6MFhZ8XlY?si=ULY7uNq79dFiOSix)
@@ -12,7 +13,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/DevInventory/DevInventory3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```FC4133``` > Last Address: ```FC46FD``` and Select
+- go 'Select Range' > First Address: ```BE7DF3``` > Last Address: ```BE83C6``` and Select
 
 ![Screen](../../Assets/DevInventory/DevInventory4.jpg)
 ![Screen](../../Assets/DevInventory/DevInventory5.jpg)

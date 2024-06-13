@@ -1,18 +1,19 @@
+# !!!!! Read the steps carefully and do not necessarily trust everything that is on the image, whether the name of the pak or the offsets. !!!!
 ## Step 1)
 Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
 - follow this [video](https://youtu.be/8N6MFhZ8XlY?si=ULY7uNq79dFiOSix)
-- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > FortniteBR > Content > Paks > pakchunk10_s8-Android_ASTCClient.ucas
+- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > FortniteBR > Content > Paks > pakchunk10_s3-Android_ASTCClient.ucas
 
 ## Step 2)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor&pcampaignid=web_share)
-- go 'Open or Create File' > 'Open File' and select ```pakchunk10_s8-Android_ASTCClient.ucas```
+- go 'Open or Create File' > 'Open File' and select ```pakchunk10_s3-Android_ASTCClient.ucas```
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy1.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy2.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy3.jpg)
 
 ## Step 3) Orange Copy:
-- go 'Select Range' > First Address: ```7F95A0``` > Last Address: ```7F9AC0``` and Select
+- go 'Select Range' > First Address: ```17C1A60``` > Last Address: ```17C1F80``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy5.jpg)
@@ -37,7 +38,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy11.jpg)
 
 ## Step 6) White Copy:
-- go 'Select Range' > First Address: ```7F85A3``` > Last Address: ```7F876B``` and Select
+- go 'Select Range' > First Address: ```17C0A63``` > Last Address: ```17C0C2B``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)

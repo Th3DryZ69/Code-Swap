@@ -1,12 +1,12 @@
-UEFN PATCH 30.10
+UEFN PATCH 30.10 Update 2
 
 Cannot modify cooked assets
-F732ABA <— Offset (1/2)
+F732A5A <— Offset (1/2)
 
 32 C0 replace this
 90 90 with this
 
-F732A71 <— Offset (2/2)
+F732A11 <— Offset (2/2)
 
 74 replace this
 EB with this
@@ -29,14 +29,19 @@ Package is cooked or missing editor data\n
 74 replace this 
 EB with this
 
-UEFN PATCH 30.10 Frontend
-
-The binding is from a different library
-F9F6928 <- Offset (1/2)
+Cannot modify generated classes
+F7329CE <- Offset (1/1)
 74 replace this 
 EB with this
 
-F9F9FE3 <- Offset (2/2)
+UEFN PATCH 30.10 Frontend Update 2
+
+The binding is from a different library
+F9F68C8 <- Offset (1/2)
+74 replace this 
+EB with this
+
+F9F9F83 <- Offset (2/2)
 74 replace this 
 EB with this
 

@@ -49,7 +49,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portals1
 ***Air Reactor Power Plant*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BGA_DudeBro_Mini.txt)  
 ![Screen](./Air%20Reactor%20Power%20Plant.png)
 ```
-FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini
+FortniteGame/Content/Athena/Environments/Blueprints/DudeBro/BGA_DudeBro_Mini
 ```
 ```FortTriggerOnlyPawns```
 
@@ -154,9 +154,9 @@ FortniteGame/Content/Missions/Primary/Season_Adventure/Landmark/Props/BP_Adventu
 ***Maze Patrol*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BP_MazePatrolEndPoint.txt)  
 ![Screen](./Maze%20Patrol.png)
 ```
-FortniteGame/Content/Missions/Primary/EventLandmarks/Season11/HauntedMaze/Props/BP_MazePatrolEndPoint
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Primary/EventLandmarks/Season11/HauntedMaze/Props/BP_MazePatrolEndPoint
 ```
-```Custom``` ; ```Light Fade In Time```-2
+```Custom``` ; ```Light Fade In Time```-2 (Patch)
 
 ---
 ***Jump Pad (Directional)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Player_Jump_Free_Direction_Pad.txt)  
@@ -322,7 +322,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Spikes
 ***Ceiling Drop Trap*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Ceiling_Falling.txt)  
 ![Screen](./Ceiling%20Drop%20Trap.png)
 ```
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Ceiling_Falling
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Falling
 ```
 ```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
 
@@ -346,7 +346,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Ceiling_Electric
 ***Ceiling Zapper*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Ceiling_ElectricWeak.txt)  
 ![Screen](./Ceiling%20Zapper.png)
 ```
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Ceiling_ElectricWeak
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_ElectricWeak
 ``` 
 ```Custom``` ; ```FortCameraOnly```
 

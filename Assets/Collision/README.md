@@ -49,7 +49,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portals1
 ***Air Reactor Power Plant*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BGA_DudeBro_Mini.txt)  
 ![Screen](./Air%20Reactor%20Power%20Plant.png)
 ```
-FortniteGame/Content/Athena/Environments/Blueprints/DudeBro/BGA_DudeBro_Mini
+FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini
 ```
 ```FortTriggerOnlyPawns```
 
@@ -138,7 +138,7 @@ FortniteGame/Content/Missions/Primary/OB_FarmsteadFort/HologramStations/A_Parent
 ***Switch Console*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/Switch_Console.txt)  
 ![Screen](./Switch%20Console.png)
 ``` 
-FortniteGame/Content/Missions/Primary/DeliverGoods/Props/Switch_Console
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Primary/DeliverGoods/Props/Switch_Console
 ```
 ```FortTriggerOnlyInteractions```
 
@@ -186,7 +186,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Speaker
 ***Healing Pad*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Health_Master.txt)  
 ![Screen](./Healing%20Pad.png)
 ```
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Health_Master
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Health_Master
 ``` 
 ```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
 

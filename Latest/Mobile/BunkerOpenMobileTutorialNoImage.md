@@ -8,7 +8,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 - go 'Open or Create File' > 'Open File' and select ```pakchunk10_s2-Android_ASTCClient.ucas```
 
 ## Step 3)
-- go 'Select Range' > First Address: ```7B95CD``` > Last Address: ```7B9681``` and Select
+- go 'Select Range' > First Address: ```F4B66A0``` > Last Address: ```F4B691D``` and Select
 
 ## Step 4)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply

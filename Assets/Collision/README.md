@@ -364,7 +364,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Darts
 ``` 
 FortniteGame/Content/Athena/BuildingActors/ConsumableBGAs/CBGA_Parent
 ```
-```FortTriggerOnlyPawns```
+```FortTriggerOnlyInteractions```
 
 ---
 ***Uncle Brolly*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/B_Uncle_Brolly_Block_Collision.txt)  

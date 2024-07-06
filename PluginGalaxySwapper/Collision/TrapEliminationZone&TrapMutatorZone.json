@@ -1,0 +1,37 @@
+{
+    "Name": "Trap Elimination Zone & Trap Mutator Zone",
+    "Icon": "https://cdn.discordapp.com/attachments/1228777520124657835/1244620715135602758/Trap_Elimination_Zone__Trap_Mutator_Zone.png?ex=6689da1e&is=6688889e&hm=c683f38c696bcc81b6cad5d30bc441b3857f6c677ee113b64c7aefe263aabfab&",
+    "Swapicon": "https://cdn.discordapp.com/attachments/1228777520124657835/1244620715135602758/Trap_Elimination_Zone__Trap_Mutator_Zone.png?ex=6689da1e&is=6688889e&hm=c683f38c696bcc81b6cad5d30bc441b3857f6c677ee113b64c7aefe263aabfab&",
+    "Message": "Made by Th3DryZ69. Thanks for using the plugin!",
+    "Assets": [
+      {
+        "AssetPath": "FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_NoWeaponZone",
+        "AssetPathTo": "",
+        "Swaps": [
+            {
+                "type": "string",
+                "search": "Custom",
+                "replace": "BlockAll"
+              }
+        ]
+      },
+      {
+        "AssetPath": "FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_EliminationZone",
+        "AssetPathTo": "",
+        "Swaps": [
+            {
+                "type": "string",
+                "search": "Custom",
+                "replace": "BlockAll"
+              }
+        ]
+      }
+    ],
+    "Socials": [
+        {
+            "type": "discord",
+            "header": "Created by Th3DryZ69",
+            "url": "https://discord.com/users/382930404249698304"
+        }
+    ]
+  }

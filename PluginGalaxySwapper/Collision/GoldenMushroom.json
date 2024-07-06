@@ -1,0 +1,26 @@
+{
+    "Name": "Golden Mushroom",
+    "Icon": "https://cdn.discordapp.com/attachments/1228777520124657835/1244623953113382925/Golden_Mushroom.png?ex=6689dd22&is=66888ba2&hm=82e606d59a4cb8c49e25ceb9eefe99b09cd5f2bf144fbda733d471711d680b2d&",
+    "Swapicon": "https://cdn.discordapp.com/attachments/1228777520124657835/1244623953113382925/Golden_Mushroom.png?ex=6689dd22&is=66888ba2&hm=82e606d59a4cb8c49e25ceb9eefe99b09cd5f2bf144fbda733d471711d680b2d&",
+    "Message": "Made by Th3DryZ69. Thanks for using the plugin!",
+    "Assets": [
+      {
+        "AssetPath": "FortniteGame/Content/Athena/BuildingActors/ConsumableBGAs/CBGA_Parent",
+        "AssetPathTo": "",
+        "Swaps": [
+            {
+                "type": "string",
+                "search": "FortTriggerOnlyInteractions",
+                "replace": "BlockAll"
+              }
+        ]
+      }
+    ],
+    "Socials": [
+        {
+            "type": "discord",
+            "header": "Created by Th3DryZ69",
+            "url": "https://discord.com/users/382930404249698304"
+        }
+    ]
+  }

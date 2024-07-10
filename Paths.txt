@@ -1,2 +1,3 @@
 Nitro Fly => FortniteGame/Plugins/GameFeatures/NitroGameplay/Content/DataTables/NitroGameplayGameData_NoBuild_Override
 Grillage Voiture Boss Invisible => FortniteGame/Content/Environments/Asteria/Sets/EclipseVault/Meshes/SM_EclipseVault_CellWall_A
+Orange Copy => FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/MoveObjectsFreely/Default_Allowed_MoveObjectsFreely

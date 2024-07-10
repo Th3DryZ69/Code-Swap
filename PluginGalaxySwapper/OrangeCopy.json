@@ -1,0 +1,20 @@
+{
+    "Name": "Orange Copy",
+    "Icon": "https://media.discordapp.net/attachments/1210195363021983825/1210195364238467102/Screenshot_2023-06-30-13-54-17-723_com.png?ex=6689db83&is=66888a03&hm=f4aa4d543dc5cc12a96ddef4de0b3c78f72986152d5bac7e43d9a0655020b7b1&=&format=webp&quality=lossless&width=687&height=310",
+    "Swapicon": "https://media.discordapp.net/attachments/1210195363021983825/1210195364238467102/Screenshot_2023-06-30-13-54-17-723_com.png?ex=6689db83&is=66888a03&hm=f4aa4d543dc5cc12a96ddef4de0b3c78f72986152d5bac7e43d9a0655020b7b1&=&format=webp&quality=lossless&width=687&height=310",
+    "Message": "Made by Th3DryZ69. Thanks for using the plugin!",
+    "Assets": [{
+        "AssetPath": "FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/MoveObjectsFreely/Default_Allowed_MoveObjectsFreely",
+        "AssetPathTo": "",
+        "Swaps": [{
+            "type": "string",
+            "search": "/Script/FortniteGame.BuildingProp",
+            "replace": "/Script/Engine.Actor"
+        }]
+    }],
+    "Socials": [{
+        "type": "discord",
+        "header": "Created by Th3DryZ69",
+        "url": "https://discord.com/users/382930404249698304"
+    }]
+}

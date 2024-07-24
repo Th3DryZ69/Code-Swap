@@ -4,32 +4,12 @@
     "Swapicon": "https://cdn.icon-icons.com/icons2/2620/PNG/512/among_us_player_red_icon_156942.png",
     "Message": "Your Message",
     "Assets": [{
-            "AssetPath": "FortniteGame/Content/Missions/Secondary/SearchForBooty/Props/B_SFB_Booty_Chest",
+            "AssetPath": "FortniteGame/Content/Creative/DAD/DAD_LlamatronVUIDList",
             "AssetPathTo": "",
             "Swaps": [{
                     "type": "string",
-                    "search": "Custom",
-                    "replace": "BlockAll"
-                },
-                {
-                    "type": "string",
-                    "search": "FCC_Trace_Interaction",
-                    "replace": "PhysicsBody"
-                }
-            ]
-        },
-        {
-            "AssetPath": "FortniteGame/Content/Missions/Secondary/SearchForBooty/Props/SFB_Booty",
-            "AssetPathTo": "",
-            "Swaps": [{
-                    "type": "string",
-                    "search": "Custom",
-                    "replace": "BlockAll"
-                },
-                {
-                    "type": "string",
-                    "search": "NoCollision",
-                    "replace": "BlockAll"
+                    "search": "MzRryTPijJBHJNxR",
+                    "replace": "PiEXYykwqLMxBFOHjd"
                 }
             ]
         }

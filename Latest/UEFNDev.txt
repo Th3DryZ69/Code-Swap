@@ -1,61 +1,61 @@
-UEFN PATCH 30.20 Update 2
+UEFN PATCH 30.30
 
 Cannot modify cooked assets
-F99105A <— Offset (1/2)
+FA00B3A <— Offset (1/2)
 
 32 C0 replace this
 90 90 with this
 
-F991011 <— Offset (2/2)
+FA00AF1 <— Offset (2/2)
 
 74 replace this
 EB with this
 
 Unable to edit cooked asset
-A0629F7 <— Offset (1/1)
+A0A3857 <— Offset (1/1)
 
 32 DB replace this 
 B3 01 with this
 
 Copy Objects
-9DF1EFE <— Offset (1/1)
+9E32D5E <— Offset (1/1)
 
 0F 84 F2 02 00 00 replace this 
 90 90 90 90 90 90 with this
 
 Package is cooked or missing editor data\n
-9DF24E3 <— Offset (1/1)
+9E33343 <— Offset (1/1)
 
 74 replace this 
 EB with this
 
 Cannot modify generated classes
-F990FCE <- Offset (1/1)
+FA00AAE <- Offset (1/1)
 
 74 replace this 
 EB with this
 
-UEFN PATCH 30.20 Update 2 Frontend
+UEFN PATCH 30.30 Frontend
 
 The binding is from a different library
-FC5AE6A <- Offset (1/2)
+FCCA06A <- Offset (1/2)
 
 74 replace this 
 EB with this
 
-FC5E6A3 <- Offset (2/2)
+FCCD8A3 <- Offset (2/2)
 
 74 replace this 
 EB with this
 
 Animation Fix
-B7A3A1C <- Offset (1/1)
+B7E71AC <- Offset (1/1)
 
 0F 84 93 replace this
 E9 94 00 with this
 
 Launch Options or Item Definition Fix (-disableplugins="AtomVK,ValkyrieFortnite")
-D332429 <- Offset (1/1)
+D385069 <- Offset (1/1)
 
 E8 32 1B FE FF  Replace this
 90 90 90 90 90 with this

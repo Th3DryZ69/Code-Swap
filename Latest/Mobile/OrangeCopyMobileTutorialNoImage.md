@@ -1,11 +1,11 @@
 ## Step 1)
 Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
 - follow this [video](https://youtu.be/8N6MFhZ8XlY?si=ULY7uNq79dFiOSix)
-- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > FortniteBR > Content > Paks > pakchunk10_s3-Android_ASTCClient.ucas
+- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > FortniteBR > Content > Paks > pakchunk10_s2-Android_ASTCClient.ucas
 
 ## Step 2)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor&pcampaignid=web_share)
-- go 'Open or Create File' > 'Open File' and select ```pakchunk10_s3-Android_ASTCClient.ucas```
+- go 'Open or Create File' > 'Open File' and select ```pakchunk10_s2-Android_ASTCClient.ucas```
 
 ## Step 3) Orange Copy Part 1:
 - go 'Select Range' > First Address: ```169F5B0``` > Last Address: ```169FAD0``` and Select
@@ -21,7 +21,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 - go 'Edit' > 'Overwrite' > paste code hex and Apply 
 
 ## Step 6) White Copy:
-- go 'Select Range' > First Address: ```169E5B3``` > Last Address: ```169E77B``` and Select
+- go 'Select Range' > First Address: ```15FBC13``` > Last Address: ```15FBDDB``` and Select
 
 ## Step 7)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply

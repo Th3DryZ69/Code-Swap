@@ -1,0 +1,21 @@
+{
+    "Name": "Copy Wall Reinforced",
+    "Icon": "https://fortnite.gg/img/items/3694/icon.jpg?2",
+    "Swapicon": "https://fortnite.gg/img/items/3694/icon.jpg?2",
+    "Message": "Test",
+    "Assets": [{
+            "AssetPath": "FortniteGame/Plugins/GameFeatures/CorruptionItems/Content/Gameplay/Items/ReinforcedTrap/Actors/B_Wall_Reinforced_Athena",
+            "AssetPathTo": "",
+            "Swaps": [{
+                "type": "string",
+                "search": "((Interface=\"/Script/CoreUObject.Class'/Script/FortniteGame.CreativeMoveToolInteractionBehaviorOverrides'\"),(Interface=\"/Script/CoreUObject.Class'/Script/FortniteGame.CreativeLinearMoverInterface'\"))",
+                "replace": "..........................................................................................................................................................................................................."
+            }]
+        }
+    ],
+    "Socials": [{
+        "type": "discord",
+        "header": "Created by Th3DryZ69",
+        "url": "https://discord.com/users/382930404249698304"
+    }]
+}

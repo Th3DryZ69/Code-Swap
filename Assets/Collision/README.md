@@ -49,7 +49,7 @@ FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portals1
 ***Air Reactor Power Plant*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BGA_DudeBro_Mini.txt)  
 ![Screen](./Air%20Reactor%20Power%20Plant.png)
 ```
-FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini
+FortniteGame/Content/Athena/Environments/Blueprints/DudeBro/BGA_DudeBro_Mini
 ```
 ```FortTriggerOnlyPawns```
 
@@ -178,7 +178,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Pad
 ***Sound Wall*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Wall_Speaker.txt)  
 ![Screen](./Sound%20Wall.png)
 ``` 
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Wall_Speaker
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Speaker
 ``` 
 ```Custom``` ; ```FortTriggerOnlyPawns```
 
@@ -194,7 +194,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Tr
 ***Floor Launcher*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Launcher.txt)  
 ![Screen](./Floor%20Launcher.png)
 ``` 
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Launcher
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Launcher
 ``` 
 ```Custom``` ; ```FortCameraOnly```
 
@@ -234,7 +234,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Spikes_Wood
 ***Ceiling Gas Trap*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Ceiling_Gas.txt)  
 ![Screen](./Ceiling%20Gas%20Trap.png)
 ``` 
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Ceiling_Gas
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Gas
 ```
 ```Custom``` ; ```FortCameraOnly```
 
@@ -266,7 +266,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Tr
 ***Vindertech Goop*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Ceiling_Goop.txt)  
 ![Screen](./Vindertech%20Goop.png)
 ```
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Ceiling_Goop
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Goop
 ```
 ```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
 
@@ -338,7 +338,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Tr
 ***Ceiling Electric Field*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Ceiling_Electric.txt)  
 ![Screen](./Ceiling%20Electric%20Field.png)
 ```
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Ceiling_Electric
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Electric
 ```
 ```Custom``` ; ```FortCameraOnly```
 

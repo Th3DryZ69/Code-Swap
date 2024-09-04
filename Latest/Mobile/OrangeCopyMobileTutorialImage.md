@@ -13,7 +13,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy3.jpg)
 
 ## Step 3) Orange Copy:
-- go 'Select Range' > First Address: ```15FCC10``` > Last Address: ```15FD130``` and Select
+- go 'Select Range' > First Address: ```15372A0``` > Last Address: ```15377C0``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy5.jpg)
@@ -38,7 +38,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy11.jpg)
 
 ## Step 6) White Copy:
-- go 'Select Range' > First Address: ```15FBC13``` > Last Address: ```15FBDDB``` and Select
+- go 'Select Range' > First Address: ```15362A3``` > Last Address: ```153646B``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)

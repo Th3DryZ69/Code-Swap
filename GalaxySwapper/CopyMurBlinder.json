@@ -4,12 +4,12 @@
     "Swapicon": "https://fortnite.gg/img/items/3694/icon.jpg?2",
     "Message": "Test",
     "Assets": [{
-            "AssetPath": "FortniteGame/Plugins/GameFeatures/CorruptionItems/Content/Gameplay/Items/ReinforcedTrap/Actors/B_Wall_Reinforced_Athena",
+            "AssetPath": "/Game/Environments/Asteria/Foliage/ChaparralPlants/JacobsLadder/Meshes/SM_ChaparralPlant_JacobsLadder",
             "AssetPathTo": "",
             "Swaps": [{
                 "type": "string",
-                "search": "((Interface=\"/Script/CoreUObject.Class'/Script/FortniteGame.CreativeMoveToolInteractionBehaviorOverrides'\"),(Interface=\"/Script/CoreUObject.Class'/Script/FortniteGame.CreativeLinearMoverInterface'\"))",
-                "replace": "..........................................................................................................................................................................................................."
+                "search": "SimpleDestructibleProp_BlockVisibilityOnly",
+                "replace": "BlockAll"
             }]
         }
     ],

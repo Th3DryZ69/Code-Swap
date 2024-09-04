@@ -68,3 +68,13 @@ Fix Prefabs/Galleries crashing 31.10
 1E963B01 <- Offset (2/2)
 86 0C 11 00 00 Replace this
 05 BA AC C9 08 with this
+
+The requested operation could not be completed because the level is locked.
+77CA40E <- Offset (1/2)
+
+0F 85 AD 02 00 00 Replace this
+90 90 90 90 90 90 with this
+
+94997F7 <- Offset (2/2)
+0F 84 A4 Replace this
+E9 A5 00 with this

@@ -226,7 +226,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Tr
 ***Wooden Floor Spikes*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Spikes_Wood.txt)  
 ![Screen](./Wooden%20Floor%20Spikes.png)
 ``` 
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Spikes_Wood
+FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Spikes_Wood
 ```
 ```Custom``` ; ```Trap AI Perception Stimuli Source Component```-2
 

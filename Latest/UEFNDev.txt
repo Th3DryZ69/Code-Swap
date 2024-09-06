@@ -55,10 +55,10 @@ B74CF03 <- Offset (1/1)
 EB with this
 
 Launch Options or Item Definition Fix (-disableplugins="AtomVK,ValkyrieFortnite")
-1231D639 <- Offset (1/1)
+D17CD69 <- Offset (1/1)
 
 E8 22 01 FE FF  Replace this
-90 90 90 90 90 with this 
+90 90 90 90 90 with this  
 
 Fix Prefabs/Galleries crashing 31.10
 1E963AFB <- Offset (1/2)

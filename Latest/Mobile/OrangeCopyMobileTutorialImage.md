@@ -37,8 +37,8 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy10.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy11.jpg)
 
-## Step 6) White Copy:
-- go 'Select Range' > First Address: ```15362A3``` > Last Address: ```153646B``` and Select
+## Step 6) White Copy A:
+- go 'Select Range' > First Address: ```1539FFA``` > Last Address: ```153A109``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)
@@ -52,7 +52,37 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy16.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy17.jpg)
 
-## Step 8)
+## Step 8) White Copy B:
+- go 'Select Range' > First Address: ```1530A35``` > Last Address: ```1530BA5``` and Select
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy13.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy14.jpg)
+
+## Step 9)
+- go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy15.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy16.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy17.jpg)
+
+## Step 10) White Copy C:
+- go 'Select Range' > First Address: ```15362A3``` > Last Address: ```153646B``` and Select
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy13.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy14.jpg)
+
+## Step 11)
+- go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy15.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy16.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy17.jpg)
+
+## Step 12)
 - go to the top left and press the last save icon
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy18.jpg)

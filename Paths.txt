@@ -3,3 +3,4 @@ Grillage Voiture Boss Invisible => FortniteGame/Content/Environments/Asteria/Set
 Orange Copy => FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/MoveObjectsFreely/Default_Allowed_MoveObjectsFreely
 DevInventory => FortniteGame/Content/Creative/CreativeBetaPermissions
 LegoInventory => FortniteGame/Plugins/GameFeatures/Juno/JunoGame/Content/DataTables/DT_FreeBuildSpawnableItems_Basic
+Delete Copy => FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/DeleteObjects/Default_Allowed_DeleteObjects

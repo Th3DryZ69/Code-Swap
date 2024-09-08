@@ -20,11 +20,23 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ## Step 5)
 - go 'Edit' > 'Overwrite' > paste code hex and Apply 
 
-## Step 6) White Copy:
-- go 'Select Range' > First Address: ```15362A3``` > Last Address: ```153646B``` and Select
+## Step 6) White Copy A:
+- go 'Select Range' > First Address: ```1539FFA``` > Last Address: ```153A109``` and Select
 
 ## Step 7)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
 
-## Step 8)
+## Step 8) White Copy B:
+- go 'Select Range' > First Address: ```1530A35``` > Last Address: ```1530BA5``` and Select
+
+## Step 9)
+- go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
+
+## Step 10) White Copy C:
+- go 'Select Range' > First Address: ```15362A3``` > Last Address: ```153646B``` and Select
+
+## Step 11)
+- go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
+
+## Step 12)
 - go to the top left and press the last save icon

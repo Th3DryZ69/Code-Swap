@@ -122,7 +122,7 @@ FortniteGame/Content/Athena/Items/Traps/GameInventoryToy/Trap_Floor_GameStarting
 ***Zipline*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BP_Athena_Environmental_ZipLine_Spline.txt)  
 ![Screen](./Zipline.png)
 ```
-FortniteGame/Content/Athena/Items/Consumables/Zipline/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
+FortniteGame/Content/Athena/Items/Consumables/ZipLine/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
 ``` 
 ```FortTriggerOnlyInteractions```
 

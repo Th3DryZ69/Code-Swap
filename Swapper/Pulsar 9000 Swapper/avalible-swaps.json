@@ -1,5 +1,13 @@
 [
 {
+  "swapname": "Orange Copy",
+  "image": "https://media.discordapp.net/attachments/1210195363021983825/1210195364238467102/Screenshot_2023-06-30-13-54-17-723_com.png?ex=66f15943&is=66f007c3&hm=de0261e3133a8e14b4344ec42710db6ea70530dc6facbcf5b45ff84b8f0cf55e&=&format=webp&quality=lossless&width=1256&height=565",
+  "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar%209000%20Swapper/OrangeCopy.txt",
+  "fnversion": "31.20",
+  "Author": "Th3DryZ69",
+  "Nokick": "True"
+},
+{
   "swapname": "Delete Copy",
   "image": "https://media.discordapp.net/attachments/1285727435924705304/1285727436738134108/08232A70-44C9-401D-B105-787A445B36DE.png?ex=66f1413c&is=66efefbc&hm=bbe581894b409052ddec7890629933b5b882f2ff01c3d8449ba40b71544de911&=&format=webp&quality=lossless&width=1060&height=565",
   "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Latest/DeleteCopy.txt",

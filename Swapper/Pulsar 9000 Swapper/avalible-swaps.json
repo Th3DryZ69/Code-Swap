@@ -1,24 +1,24 @@
 [
   {
     "swapname": "Orange Copy",
-    "image": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar%209000%20Swapper/DevBuildPc.txt",
-    "jsonurl": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/dev.webp",
+    "image": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/orange.webp",
+    "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar%209000%20Swapper/OrangeCopy.txt",
     "fnversion": "31.20",
     "Author": "Th3DryZ69",
     "Nokick": "true"
   },
   {
     "swapname": "Delete Copy",
-    "image": "https://media.discordapp.net/attachments/1285727435924705304/1285727436738134108/08232A70-44C9-401D-B105-787A445B36DE.png?ex=66f292bc&is=66f1413c&hm=38d0ed5c2480b23785690750fb6aafd5822d0b1423a54ac9128fe3454c33b37d&=&format=webp&quality=lossless&width=1060&height=565",
-    "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/delete.webp",
+    "image": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/delete.webp",
+    "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Latest/DeleteCopy.txt",
     "fnversion": "31.20",
     "Author": "Th3DryZ69",
     "Nokick": "true"
   },
   {
     "swapname": "Dev Builds",
-    "image": "https://media.discordapp.net/attachments/1210183934147563542/1210183934474850304/image.png?ex=66f2a01e&is=66f14e9e&hm=844a0c6bf62e035fa9b074a8d4857496b4eb385977fdc2d109bc89a360851cf2&=&format=webp&quality=lossless&width=1006&height=565",
-    "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/orange.webp",
+    "image": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/dev.webp",
+    "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar%209000%20Swapper/DevBuildPc.txt",
     "fnversion": "31.20",
     "Author": "Th3DryZ69",
     "Nokick": "true"

@@ -1,64 +1,75 @@
-UEFN PATCH 31.30
+UEFN PATCH 31.20 Update 1
 
 Cannot modify cooked assets
-1069340A <— Offset (1/2)
+105C217A <— Offset (1/2)
 
 32 C0 replace this
 90 90 with this
 
-10693401 <— Offset (2/2)
+105C2171 <— Offset (2/2)
 
 74 replace this
 EB with this
 
 Unable to edit cooked asset
-A0ED338 <— Offset (1/1)
+A05CE78 <— Offset (1/1)
 
 32 DB replace this 
 B3 01 with this
 
 Copy Objects
-9E8D90F <— Offset (1/1)
+9DFD79F <— Offset (1/1)
 
 0F 85 18 01 00 00 replace this 
 90 90 90 90 90 90 with this
 
 Package is cooked or missing editor data\n
-9E8DF25 <— Offset (1/1)
+9DFDDB5 <— Offset (1/1)
 
 74 replace this 
 EB with this
 
+Fix Prefabs/Galleries crashing
+1EAB33AB <- Offset (1/2)
+86 E0 10 00 00 Replace this
+05 B0 7F D0 08 with this
+
+1EAB33B1 <- Offset (2/2)
+86 0C 11 00 00 Replace this
+05 AA 7F D0 08 with this
+
+
 The requested operation could not be completed because the level is locked.
-786349E <- Offset (1/2)
+77E4B8E <- Offset (1/2)
 
 0F 85 AD 02 00 00 Replace this
 90 90 90 90 90 90 with this
 
-953EC17 <- Offset (2/2)
+94B5CF7 <- Offset (2/2)
 0F 84 A4 Replace this
 E9 A5 00 with this
 
-UEFN PATCH 31.30
+UEFN PATCH 31.20 Frontend Update 1
+
 The binding is from a different library
-FEF2047 <- Offset (1/2)
+FE22D67 <- Offset (1/2)
 
 74 replace this 
 EB with this
 
-FEF5543 <- Offset (2/2)
+FE26263 <- Offset (2/2)
 
 74 replace this 
 EB with this
 
 Animation Fix
-B80D1D3 <- Offset (1/1)
+B76B723 <- Offset (1/1)
 
 74 replace this
 EB with this
 
 Launch Options or Item Definition Fix (-disableplugins="AtomVK,ValkyrieFortnite")
-D247539 <- Offset (1/1)
+D19E9F9 <- Offset (1/1)
 
 E8 22 01 FE FF  Replace this
 90 90 90 90 90 with this

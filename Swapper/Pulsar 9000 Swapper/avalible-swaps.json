@@ -3,7 +3,7 @@
     "swapname": "Orange Copy",
     "image": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/orange.webp",
     "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar%209000%20Swapper/OrangeCopy.txt",
-    "fnversion": "31.20",
+    "fnversion": "31.30",
     "Author": "Th3DryZ69",
     "Nokick": "true"
   },
@@ -11,7 +11,7 @@
     "swapname": "Delete Copy",
     "image": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/delete.webp",
     "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Latest/DeleteCopy.txt",
-    "fnversion": "31.20",
+    "fnversion": "31.30",
     "Author": "Th3DryZ69",
     "Nokick": "true"
   },
@@ -19,7 +19,7 @@
     "swapname": "Dev Builds",
     "image": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar 9000 Swapper/images/dev.webp",
     "jsonurl": "https://api-xji1.onrender.com/api/v1/swapstosjon?link=https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/main/Swapper/Pulsar%209000%20Swapper/DevBuildPc.txt",
-    "fnversion": "31.20",
+    "fnversion": "31.30",
     "Author": "Th3DryZ69",
     "Nokick": "true"
   }

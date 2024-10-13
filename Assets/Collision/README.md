@@ -1,5 +1,323 @@
 ## Builds :
+- ***PBW_BG_Archway*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_Archway.txt) ***Pc***  
+![Screen](./PBW_BG_Archway.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_Archway
+    ```
 
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway
+    ```
+
+- ***PBW_BG_ArchwayLarge*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_ArchwayLarge.txt) ***Pc***  
+![Screen](./PBW_BG_ArchwayLarge.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_ArchwayLarge
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_ArchwayLarge.PBW_BG_ArchwayLarge
+    ```
+
+- ***PBW_BG_ArchwayLargeSupport*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_ArchwayLargeSupport.txt) ***Pc***  
+![Screen](./PBW_BG_ArchwayLargeSupport.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_ArchwayLargeSupport
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_ArchwayLargeSupport.PBW_BG_ArchwayLargeSupport
+    ```
+
+- ***PBW_BG_BalconyD*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_BalconyD.txt) ***Pc***  
+![Screen](./PBW_BG_BalconyD.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_BalconyD
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_BalconyD.PBW_BG_BalconyD
+    ```
+
+- ***PBW_BG_BalconyI*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_BalconyI.txt) ***Pc***  
+![Screen](./PBW_BG_BalconyI.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_BalconyI
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_BalconyI.PBW_BG_BalconyI
+    ```
+
+- ***PBW_BG_BalconyO*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_BalconyO.txt) ***Pc***  
+![Screen](./PBW_BG_BalconyO.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_BalconyO
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_BalconyO.PBW_BG_BalconyO
+    ```
+
+- ***PBW_BG_BalconyS*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_BalconyS.txt) ***Pc***  
+![Screen](./PBW_BG_BalconyS.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_BalconyS
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_BalconyS.PBW_BG_BalconyS
+    ```
+
+- ***PBW_BG_Brace*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_Brace.txt) ***Pc***  
+![Screen](./PBW_BG_Brace.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_Brace
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_Brace.PBW_BG_Brace
+    ```
+
+- ***PBW_BG_DoorC*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_DoorC.txt) ***Pc***  
+![Screen](./PBW_BG_DoorC.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_DoorC
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_DoorC.PBW_BG_DoorC
+    ```
+
+- ***PBW_BG_DoorS*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_DoorS.txt) ***Pc***  
+![Screen](./PBW_BG_DoorS.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_DoorS
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_DoorS.PBW_BG_DoorS
+    ```
+
+- ***PBW_BG_DoorSide*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_DoorSide.txt) ***Pc***  
+![Screen](./PBW_BG_DoorSide.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_DoorSide
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_DoorSide.PBW_BG_DoorSide
+    ```
+
+- ***PBW_BG_Floor*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_Floor.txt) ***Pc***  
+![Screen](./PBW_BG_Floor.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_Floor
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_Floor.PBW_BG_Floor
+    ```
+
+- ***PBW_BG_HalfWall*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_HalfWall.txt) ***Pc***  
+![Screen](./PBW_BG_HalfWall.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_HalfWall
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_HalfWall.PBW_BG_HalfWall
+    ```
+
+- ***PBW_BG_HalfWallDoor*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_HalfWallDoor.txt) ***Pc***  
+![Screen](./PBW_BG_HalfWallDoor.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_HalfWallDoor
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_HalfWallDoor.PBW_BG_HalfWallDoor
+    ```
+
+- ***PBW_BG_HalfWallDoorS*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_HalfWallDoorS.txt) ***Pc***  
+![Screen](./PBW_BG_HalfWallDoorS.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_HalfWallDoorS
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_HalfWallDoorS.PBW_BG_HalfWallDoorS
+    ```
+
+- ***PBW_BG_HalfWallHalf*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_HalfWallHalf.txt) ***Pc***  
+![Screen](./PBW_BG_HalfWallHalf.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_HalfWallHalf
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_HalfWallHalf.PBW_BG_HalfWallHalf
+    ```
+
+- ***PBW_BG_QuarterWallHalf*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_QuarterWallHalf.txt) ***Pc***  
+![Screen](./PBW_BG_QuarterWallHalf.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_QuarterWallHalf
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_QuarterWallHalf.PBW_BG_QuarterWallHalf
+    ```
+
+- ***PBW_BG_QuarterWallS*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_QuarterWallS.txt) ***Pc***  
+![Screen](./PBW_BG_QuarterWallS.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_QuarterWallS
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_QuarterWallS.PBW_BG_QuarterWallS
+    ```
+
+- ***PBW_BG_RoofC*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_RoofC.txt) ***Pc***  
+![Screen](./PBW_BG_RoofC.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_RoofC
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_RoofC.PBW_BG_RoofC
+    ```
+
+- ***PBW_BG_RoofD*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_RoofD.txt) ***Pc***  
+![Screen](./PBW_BG_RoofD.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_RoofD
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_RoofD.PBW_BG_RoofD
+    ```
+
+- ***PBW_BG_RoofI*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_RoofI.txt) ***Pc***  
+![Screen](./PBW_BG_RoofI.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_RoofI
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_RoofI.PBW_BG_RoofI
+    ```
+
+- ***PBW_BG_RoofO*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_RoofO.txt) ***Pc***  
+![Screen](./PBW_BG_RoofO.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_RoofO
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_RoofO.PBW_BG_RoofO
+    ```
+
+- ***PBW_BG_RoofS*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_RoofS.txt) ***Pc***  
+![Screen](./PBW_BG_RoofS.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_RoofS
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_RoofS.PBW_BG_RoofS
+    ```
+
+- ***PBW_BG_RoofWall*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_RoofWall.txt) ***Pc***  
+![Screen](./PBW_BG_RoofWall.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_RoofWall
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_RoofWall.PBW_BG_RoofWall
+    ```
+
+- ***PBW_BG_SolidWall*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_SolidWall.txt) ***Pc***  
+![Screen](./PBW_BG_SolidWall.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_SolidWall
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_SolidWall.PBW_BG_SolidWall
+    ```
+
+- ***PBW_BG_StairF*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_StairF.txt) ***Pc***  
+![Screen](./PBW_BG_StairF.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_StairF
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_StairF.PBW_BG_StairF
+    ```
+
+- ***PBW_BG_StairR*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_StairR.txt) ***Pc***  
+![Screen](./PBW_BG_StairR.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_StairR
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_StairR.PBW_BG_StairR
+    ```
+
+- ***PBW_BG_StairT*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_StairT.txt) ***Pc***  
+![Screen](./PBW_BG_StairT.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_StairT
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_StairT.PBW_BG_StairT
+    ```
+
+- ***PBW_BG_StairW*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_StairW.txt) ***Pc***  
+![Screen](./PBW_BG_StairW.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_StairW
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_StairW.PBW_BG_StairW
+    ```
+
+- ***PBW_BG_WindowC*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_WindowC.txt) ***Pc***  
+![Screen](./PBW_BG_WindowC.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_WindowC
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_WindowC.PBW_BG_WindowC
+    ```
+
+- ***PBW_BG_Windows*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_Windows.txt) ***Pc***  
+![Screen](./PBW_BG_Windows.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_Windows
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_Windows.PBW_BG_Windows
+    ```
+
+- ***PBW_BG_WindowSide*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Builds/PBW_BG_WindowSide.txt) ***Pc***  
+![Screen](./PBW_BG_WindowSide.png)
+    ```
+    FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_WindowSide
+    ```
+    
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_BG_WindowSide.PBW_BG_WindowSide
+    ```
 
 --------------------------------------------------------------------------------------------------------------------------------
 ## Props :
@@ -100,6 +418,16 @@
     FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Primary/EventLandmarks/Season11/HauntedMaze/Props/BP_MazePatrolEndPoint
     ```
     ```Custom``` ; ```Light Fade In Time``` (Patch)
+
+- ***S_LootTiered_Tall_Max_05*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/S_LootTiered_Tall_Max_05.txt) ***Pc***    
+![Screen](./S_LootTiered_Tall_Max_05.png)
+    ```
+    FortniteGame/Content/Packages/DS_Fortnight/SM/Mesh/S_LootTiered_Tall_Max_05'
+    ```
+
+    ```
+    /Game/Packages/PBW/Wood/L1/PBW_W1_Pillar.PBW_W1_Pillar
+    ```
 
 --------------------------------------------------------------------------------------------------------------------------------
 ## Traps :

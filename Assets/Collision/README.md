@@ -162,7 +162,7 @@ FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Primary/EventLan
 ***Jump Pad (Directional)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Player_Jump_Free_Direction_Pad.txt)  
 ![Screen](./Jump%20Pad%20(Directional).png)
 ```
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Free_Direction_Pad
+FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Free_Direction_Pad
 ```
 ```Custom``` ; ```FortCameraOnly```
 
@@ -170,7 +170,7 @@ FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Free_Directio
 ***Jump Pad (Up)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Player_Jump_Pad.txt)  
 ![Screen](./Jump%20Pad%20(Up).png)
 ```
-FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Pad
+FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Pad
 ```
 ```Custom``` ; ```FortCameraOnly```
 

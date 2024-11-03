@@ -34,3 +34,15 @@ D75E3C0 <- Offset (1/1)
 
 E8 22 01 FE FF  Replace this
 90 90 90 90 90 with this
+
+UEFN PATCH 32.00
+The binding is from a different library
+10748B01 <- Offset (1/2)
+
+74 replace this 
+EB with this
+
+1074C587 <- Offset (2/2)
+
+74 replace this 
+EB with this

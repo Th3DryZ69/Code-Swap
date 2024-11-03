@@ -682,10 +682,10 @@
 
     - ***TID_Floor_Minigame_Trigger_Plate*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/SM_TimeTrial_Marker.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Icon-RadarPointCritical-S.png)
-            ```
-            FortniteGame/Content/Effects/Fort_Effects/Mesh/UI/SM_TimeTrial_Marker
-            ```
+        ```
+        FortniteGame/Content/Effects/Fort_Effects/Mesh/UI/SM_TimeTrial_Marker
+        ```
 
-            ```
-            /Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway
-            ```
+        ```
+        /Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway
+        ```

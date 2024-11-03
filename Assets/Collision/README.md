@@ -366,7 +366,7 @@
 - ***Air Reactor Power Plant*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BGA_DudeBro_Mini.txt) ***Pc/Mobiles***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/Air%20Reactor%20Power%20Plant.png)
     ```
-    FortniteGame/Content/Athena/Environments/Blueprints/DudeBro/BGA_DudeBro_Mini
+    FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini
     ```
     ```FortTriggerOnlyPawns```
 
@@ -387,7 +387,7 @@
 - ***Zipline*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BP_Athena_Environmental_ZipLine_Spline.txt) ***Pc/Mobiles***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/Zipline.png)
     ```
-    FortniteGame/Content/Athena/Items/Consumables/ZipLine/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
+    FortniteGame/Content/Athena/Items/Consumables/Zipline/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
     ``` 
     ```FortTriggerOnlyInteractions```
 
@@ -422,7 +422,7 @@
 - ***S_LootTiered_Tall_Max_05*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/S_LootTiered_Tall_Max_05.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/S_LootTiered_Tall_Max_05.png)
     ```
-    FortniteGame/Content/Packages/DS_Fortnight/SM/Mesh/S_LootTiered_Tall_Max_05'
+    FortniteGame/Content/Packages/DS_Fortnight/SM/Mesh/S_LootTiered_Tall_Max_05
     ```
 
     ```
@@ -501,14 +501,14 @@
     - ***Jump Pad (Directional)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Player_Jump_Free_Direction_Pad.txt) ***Pc/Mobiles***      
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Jump%20Pad%20(Directional).png)
         ```
-        FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Free_Direction_Pad
+        FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Free_Direction_Pad
         ```
         ```Custom``` ; ```FortCameraOnly```
 
     - ***Jump Pad (Up)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Player_Jump_Pad.txt) ***Pc/Mobiles***      
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Jump%20Pad%20(Up).png)
         ```
-        FortniteGame/Content/Items/Traps/BluePrints/Trap_Floor_Player_Jump_Pad
+        FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Pad
         ```
         ```Custom``` ; ```FortCameraOnly```
 
@@ -679,3 +679,13 @@
         FortniteGame/Content/Athena/Items/Traps/BouncePad/Trap_Ceiling_BouncePad
         ```
         ```Custom``` ; ```FortCameraOnly```
+
+    - ***TID_Floor_Minigame_Trigger_Plate*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/SM_TimeTrial_Marker.txt) ***Pc***    
+![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Icon-RadarPointCritical-S.png)
+            ```
+            FortniteGame/Content/Effects/Fort_Effects/Mesh/UI/SM_TimeTrial_Marker
+            ```
+
+            ```
+            /Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway
+            ```

@@ -2,7 +2,7 @@
 ## Step 1)
 Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
 - follow this [video](https://youtu.be/8N6MFhZ8XlY?si=ULY7uNq79dFiOSix)
-- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > Frontend > Content > Paks > pakchunk20-Android_ASTCClient.ucas
+- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > FrontEnd > Content > Paks > pakchunk20-Android_ASTCClient.ucas
 
 ## Step 2)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor&pcampaignid=web_share)
@@ -13,7 +13,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/DevInventory/DevInventory3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```2059270``` > Last Address: ```205A9A4``` and Select
+- go 'Select Range' > First Address: ```264D56D``` > Last Address: ```264D57A``` and Select
 
 ![Screen](../../Assets/DevInventory/DevInventory4.jpg)
 ![Screen](../../Assets/DevInventory/DevInventory5.jpg)

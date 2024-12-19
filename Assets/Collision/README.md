@@ -366,7 +366,7 @@
 - ***Air Reactor Power Plant*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BGA_DudeBro_Mini.txt) ***Pc/Mobiles***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/Air%20Reactor%20Power%20Plant.png)
     ```
-    FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini
+    FortniteGame/Content/Athena/Environments/BluePrints/DUDEBRO/BGA_DudeBro_Mini
     ```
     ```FortTriggerOnlyPawns```
 
@@ -387,7 +387,7 @@
 - ***Zipline*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BP_Athena_Environmental_ZipLine_Spline.txt) ***Pc/Mobiles***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/Zipline.png)
     ```
-    FortniteGame/Content/Athena/Items/Consumables/Zipline/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
+    FortniteGame/Content/Athena/Items/Consumables/ZipLine/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
     ``` 
     ```FortTriggerOnlyInteractions```
 
@@ -472,14 +472,14 @@
     - ***Trap Barrier*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Device_Floor_Barrier.txt) ***Pc/Mobiles***     
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/T-Icon-Device-BarrierVolume.png)
         ```
-        FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_Barrier
+        FortniteGame/Plugins/GameFeatures/CreativeCoreDevices/Content/Items/Traps/BluePrints/Device_Floor_Barrier
         ```
         ```Custom``` ; ```Trap AI Perception Stimuli Source Component``` (Patch)
 
     - ***Trap Elimination Zone & Trap Mutator Zone*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Device_Volume_Floor.txt) ***Pc/Mobiles***      
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/T-Icon-Device-EliminationVolume.png) ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/T-Icon-Device-NoWeaponZone.png)
         ```
-        FortniteGame/Content/Items/Traps/Blueprints/Toys/Device_Volume_Floor
+        FortniteGame/Content/Items/Traps/BluePrints/Toys/Device_Volume_Floor
         ```
         ```Custom``` ; ```NoCollision``` (Patch) !!!.utoc
 

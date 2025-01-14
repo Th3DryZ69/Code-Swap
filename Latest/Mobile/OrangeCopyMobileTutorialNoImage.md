@@ -8,7 +8,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 - go 'Open or Create File' > 'Open File' and select ```pakchunk40_s1-Android_ASTCClient.ucas```
 
 ## Step 3) Orange Copy Part 1:
-- go 'Select Range' > First Address: ```368A00``` > Last Address: ```368F58``` and Select
+- go 'Select Range' > First Address: ```272AA00``` > Last Address: ```272AF58``` and Select
 
 ## Step 4)
 - copy code hex: 
@@ -21,19 +21,19 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 - go 'Edit' > 'Overwrite' > paste code hex and Apply 
 
 ## Step 6) White Copy
-- go 'Select Range' > First Address: ```367A2E``` > Last Address: ```367C10``` and Select
+- go 'Select Range' > First Address: ```2729A2E``` > Last Address: ```2729C10``` and Select
 
 ## Step 7)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
 
 ## Step 8) Optionnal (Necessary for DeleteCopy)
-- go 'Select Range' > First Address: ```36BF06``` > Last Address: ```36C027``` and Select
+- go 'Select Range' > First Address: ```272DF06``` > Last Address: ```272E027``` and Select
 
 ## Step 9)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
 
 ## Step 10) Optionnal (Necessary for DeleteCopy)
-- go 'Select Range' > First Address: ```362105``` > Last Address: ```362275``` and Select
+- go 'Select Range' > First Address: ```2724105``` > Last Address: ```2724275``` and Select
 
 ## Step 11)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply

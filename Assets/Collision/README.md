@@ -366,7 +366,7 @@
 - ***Air Reactor Power Plant*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BGA_DudeBro_Mini.txt) ***Pc/Mobiles***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/Air%20Reactor%20Power%20Plant.png)
     ```
-    FortniteGame/Content/Athena/Environments/BluePrints/DUDEBRO/BGA_DudeBro_Mini
+    FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini
     ```
     ```FortTriggerOnlyPawns```
 
@@ -380,14 +380,14 @@
 - ***Uncle Brolly*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/B_Uncle_Brolly_Block_Collision.txt) ***Pc/Mobiles***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/Uncle%20Brolly%20(Blocked).png)
     ```
-    FortniteGame/Plugins/GameFeatures/Mantis/Content/Items/UncleBrolly/Abilities/Block/B_Uncle_Brolly_Block_Collision
+    FortniteGame/Plugins/GameFeatures/UncleBrolly/Content/Items/UncleBrolly/Abilities/Block/B_Uncle_Brolly_Block_Collision
     ```
     ```Custom``` ; ```Is Open```
 
 - ***Zipline*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BP_Athena_Environmental_ZipLine_Spline.txt) ***Pc/Mobiles***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/Zipline.png)
     ```
-    FortniteGame/Content/Athena/Items/Consumables/ZipLine/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
+    FortniteGame/Content/Athena/Items/Consumables/Zipline/SplineZipline/BP_Athena_Environmental_ZipLine_Spline
     ``` 
     ```FortTriggerOnlyInteractions```
 
@@ -472,14 +472,14 @@
     - ***Trap Barrier*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Device_Floor_Barrier.txt) ***Pc/Mobiles***     
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/T-Icon-Device-BarrierVolume.png)
         ```
-        FortniteGame/Plugins/GameFeatures/CreativeCoreDevices/Content/Items/Traps/BluePrints/Device_Floor_Barrier
+        FortniteGame/Plugins/GameFeatures/CreativeCoreDevices/Content/Items/Traps/Blueprints/Device_Floor_Barrier
         ```
         ```Custom``` ; ```Trap AI Perception Stimuli Source Component``` (Patch)
 
     - ***Trap Elimination Zone & Trap Mutator Zone*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Device_Volume_Floor.txt) ***Pc/Mobiles***      
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/T-Icon-Device-EliminationVolume.png) ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/T-Icon-Device-NoWeaponZone.png)
         ```
-        FortniteGame/Content/Items/Traps/BluePrints/Toys/Device_Volume_Floor
+        FortniteGame/Content/Items/Traps/Blueprints/Toys/Device_Volume_Floor
         ```
         ```Custom``` ; ```NoCollision``` (Patch) !!!.utoc
 
@@ -503,14 +503,14 @@
         ```
         FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Free_Direction_Pad
         ```
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Jump Pad (Up)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Player_Jump_Pad.txt) ***Pc/Mobiles***      
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Jump%20Pad%20(Up).png)
         ```
         FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Pad
         ```
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Sound Wall*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Wall_Speaker.txt) ***Pc***      
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Sound%20Wall.png)
@@ -524,21 +524,21 @@
         ```
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Health_Master
         ``` 
-        ```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
+        ```Custom``` ; ```NoCollision```
 
     - ***Floor Launcher*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Launcher.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Floor%20Launcher.png)
         ``` 
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Launcher
         ``` 
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Defender Post*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Defender_Master.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Defender%20Post.png)
         ```
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Defenders/Trap_Floor_Defender_Master
         ```
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Broadside*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Wall_Cannons.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Broadside.png)
@@ -566,35 +566,35 @@
         ``` 
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Gas
         ```
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Boost Pad (Curve)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_HoverboardSpeed_Curve.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Boost%20Pad%20(Curve).png)
         ```
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_HoverboardSpeed_Curve
         ```
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Boost Pad*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Hoverboard_Speed.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Boost%20Pad.png)
         ```
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Hoverboard_Speed
         ``` 
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Vindertech Goop*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Ceiling_Goop.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Vindertech%20Goop.png)
         ```
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Goop
         ```
-        ```Custom``` ; ```FortCameraOnly``` ; ```NoCollision```
+        ```Custom``` ; ```NoCollision```
 
     - ***Flame Grill Floor Trap (STW)*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_FlameGrill.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Flame%20Grill%20Floor%20Trap.png) 
         ```
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_FlameGrill
         ```
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Rail Trap Turret*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Rail_Turret.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Turret.png) ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Rail%20Trap%20Turret.png)
@@ -650,14 +650,14 @@
         ```
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Electric
         ```
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Ceiling Zapper*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Ceiling_ElectricWeak.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Ceiling%20Zapper.png)
         ```
         FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_ElectricWeak
         ``` 
-        ```Custom``` ; ```FortCameraOnly```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```
 
     - ***Wall Dart*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Wall_Darts.txt) ***Pc***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Wall%20Darts.png)

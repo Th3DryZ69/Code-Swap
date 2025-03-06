@@ -689,3 +689,10 @@
         ```
         /Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway
         ```
+
+    - ***Floor Freeze Trap*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Traps/Trap_Floor_Freeze.txt) ***Pc***    
+![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Traps/Chiller.png)
+        ```
+        FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Freeze
+        ```
+        ```Custom``` ; ```Trap AI Perception Stimuli Source Component```

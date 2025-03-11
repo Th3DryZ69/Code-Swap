@@ -366,7 +366,7 @@
 - ***Air Reactor Power Plant*** : [***Txt Files***](https://github.com/Th3DryZ69/Code-Swap/raw/main/Latest/Collision/Props/BGA_DudeBro_Mini.txt) ***Pc/Mobiles***    
 ![Screen](https://github.com/Th3DryZ69/Code-Swap/raw/main/Assets/Collision/Props/Air%20Reactor%20Power%20Plant.png)
     ```
-    FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini
+    FortniteGame/Content/Athena/Environments/Blueprints/DudeBro/BGA_DudeBro_Mini
     ```
     ```FortTriggerOnlyPawns```
 

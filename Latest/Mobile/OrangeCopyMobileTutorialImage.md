@@ -13,7 +13,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy3.jpg)
 
 ## Step 3) Orange Copy:
-- go 'Select Range' > First Address: ```69184A0``` > Last Address: ```6918A09``` and Select
+- go 'Select Range' > First Address: ```68E9CB0``` > Last Address: ```68EA219``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy5.jpg)
@@ -38,7 +38,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy11.jpg)
 
 ## Step 6) White Copy
-- go 'Select Range' > First Address: ```691812D``` > Last Address: ```691826D``` and Select
+- go 'Select Range' > First Address: ```68E8FAD``` > Last Address: ```68E90ED``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)
@@ -53,7 +53,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy17.jpg)
 
 ## Step 8) Optionnal (Necessary for DeleteCopy)
-- go 'Select Range' > First Address: ```691B316``` > Last Address: ```691B437``` and Select
+- go 'Select Range' > First Address: ```68ECB26``` > Last Address: ```68ECC47``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)
@@ -68,7 +68,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../Assets/OrangeCopy/OrangeCopy17.jpg)
 
 ## Step 10) Optionnal (Necessary for DeleteCopy)
-- go 'Select Range' > First Address: ```6912FA5``` > Last Address: ```6913115``` and Select
+- go 'Select Range' > First Address: ```68E3E25``` > Last Address: ```68E3F95``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)

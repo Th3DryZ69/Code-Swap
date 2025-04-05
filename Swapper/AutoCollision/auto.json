@@ -396,7 +396,7 @@
     },
     {
         "path": "FortniteGame/Content/Effects/Fort_Effects/Mesh/UI/SM_TimeTrial_Marker",
-        "search": ["/Game//Effects/Fort_Effects/Mesh/UI/SM_TimeTrial_Marker.SM_TimeTrial_Marker"],
+        "search": ["/Game/Effects/Fort_Effects/Mesh/UI/SM_TimeTrial_Marker.SM_TimeTrial_Marker"],
         "replace": ["/Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway"]
     },
     {

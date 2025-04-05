@@ -190,7 +190,7 @@
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Content/Athena/Environments/Blueprints/DudeBro/BGA_DudeBro_Mini",
+        "path": "FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini",
         "search": ["FortTriggerOnlyPawns"],
         "replace": ["BlockAll"]
     },

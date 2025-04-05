@@ -233,5 +233,175 @@
         "path": "FortniteGame/Content/Packages/DS_Fortnight/SM/Mesh/S_LootTiered_Tall_Max_05",
         "search": ["/Game/Packages/DS_Fortnight/SM/Mesh/S_LootTiered_Tall_Max_05.S_LootTiered_Tall_Max_05"],
         "replace": ["/Game/Packages/PBW/Wood/L1/PBW_W1_Pillar.PBW_W1_Pillar"]
+    },
+    {
+        "path": "FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Athena/Items/Traps/FreezeTrap/Trap_Floor_Ice_Athena",
+        "search": ["Custom", "FortCameraOnly"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner",
+        "search": ["Custom", "NoCollision"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Items/Traps/Blueprints/Athena/Trap_Athena_Spikes",
+        "search": ["Custom", "FortCameraOnly", "NoCollision"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Athena/Items/Traps/PoisonDartTrap/BP_PoisonDartTrap_Floor",
+        "search": ["Custom", "FortCameraOnly"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Athena/Items/Traps/ZippyTrout/BP_ZippyTroutTrap_Floor",
+        "search": ["Custom", "FortCameraOnly"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Free_Direction_Pad",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Items/Traps/Blueprints/Trap_Floor_Player_Jump_Pad",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Speaker",
+        "search": ["Custom", "FortTriggerOnlyPawns"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Health_Master",
+        "search": ["Custom", "NoCollision"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Launcher",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Defenders/Trap_Floor_Defender_Master",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Cannons",
+        "search": ["Custom", "NoCollision"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Tar",
+        "search": ["Custom", "NoCollision"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Spikes_Wood",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Gas",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_HoverboardSpeed_Curve",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Hoverboard_Speed",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Goop",
+        "search": ["Custom", "NoCollision"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_FlameGrill",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Rail_Turret",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Mechstructor",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Light",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Launcher",
+        "search": ["Custom", "FortCameraOnly"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Spikes",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Falling",
+        "search": ["Custom", "FortCameraOnly", "NoCollision"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Armor",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Electric",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_ElectricWeak",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Darts",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Electric",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Athena/Items/Traps/BouncePad/Trap_Ceiling_BouncePad",
+        "search": ["Custom", "FortCameraOnly"],
+        "replace": ["BlockAll"]
+    },
+    {
+        "path": "FortniteGame/Content/Effects/Fort_Effects/Mesh/UI/SM_TimeTrial_Marker",
+        "search": ["/Game//Effects/Fort_Effects/Mesh/UI/SM_TimeTrial_Marker.SM_TimeTrial_Marker"],
+        "replace": ["/Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway"]
+    },
+    {
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Freeze",
+        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
+        "replace": ["BlockAll"]
     }
 ]

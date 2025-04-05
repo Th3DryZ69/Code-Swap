@@ -1,0 +1,12 @@
+[
+    {
+        "path": "FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_Archway",
+        "search": "/Game/Environments/BuildingGuides/Meshes/PBW_BG_Archway.PBW_BG_Archway",
+        "replace": "/Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway"
+    },
+    {
+        "path": "FortniteGame/Content/Environments/BuildingGuides/Meshes/PBW_BG_ArchwayLarge",
+        "search": "/Game/Environments/BuildingGuides/Meshes/PBW_BG_ArchwayLarge.PBW_BG_ArchwayLarge",
+        "replace": "/Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway"
+    }
+]

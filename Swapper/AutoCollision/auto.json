@@ -403,10 +403,5 @@
         "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Freeze",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
-    },
-    {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Fe",
-        "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
-        "replace": ["BlockAll"]
     }
 ]

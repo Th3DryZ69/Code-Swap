@@ -400,7 +400,7 @@
         "replace": ["/Game/Packages/PBW/Wood/L1/PBW_W1_Archway.PBW_W1_Archway"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Freeze",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_Freeze",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     }

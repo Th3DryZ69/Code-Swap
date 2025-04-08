@@ -230,8 +230,8 @@
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Content/Packages/DS_Fortnight/SM/Mesh/S_LootTiered_Tall_Max_05",
-        "search": ["/Game/Packages/DS_Fortnight/SM/Mesh/S_LootTiered_Tall_Max_05.S_LootTiered_Tall_Max_05"],
+        "path": "FortniteGame/Content/Packages/DS_Fortnight/Sm/Mesh/S_LootTiered_Tall_Max_05",
+        "search": ["/Game/Packages/DS_Fortnight/Sm/Mesh/S_LootTiered_Tall_Max_05.S_LootTiered_Tall_Max_05"],
         "replace": ["/Game/Packages/PBW/Wood/L1/PBW_W1_Pillar.PBW_W1_Pillar"]
     },
     {

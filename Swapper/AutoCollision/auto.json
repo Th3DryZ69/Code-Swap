@@ -275,117 +275,117 @@
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Speaker",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Speaker",
         "search": ["Custom", "FortTriggerOnlyPawns"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Health_Master",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_Health_Master",
         "search": ["Custom", "NoCollision"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Launcher",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_Launcher",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Defenders/Trap_Floor_Defender_Master",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Defenders/Trap_Floor_Defender_Master",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Cannons",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Cannons",
         "search": ["Custom", "NoCollision"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Tar",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_Tar",
         "search": ["Custom", "NoCollision"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Spikes_Wood",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_Spikes_Wood",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Gas",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Ceiling_Gas",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_HoverboardSpeed_Curve",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_HoverboardSpeed_Curve",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_Hoverboard_Speed",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_Hoverboard_Speed",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Goop",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Ceiling_Goop",
         "search": ["Custom", "NoCollision"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Floor_FlameGrill",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Floor_FlameGrill",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Rail_Turret",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Rail_Turret",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Mechstructor",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Mechstructor",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Light",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Light",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Launcher",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Launcher",
         "search": ["Custom", "FortCameraOnly"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Spikes",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Spikes",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Falling",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Ceiling_Falling",
         "search": ["Custom", "FortCameraOnly", "NoCollision"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Armor",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Armor",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_Electric",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Ceiling_Electric",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Ceiling_ElectricWeak",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Ceiling_ElectricWeak",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Darts",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Darts",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },
     {
-        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/Blueprints/Trap_Wall_Electric",
+        "path": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Traps/BluePrints/Trap_Wall_Electric",
         "search": ["Custom", "Trap AI Perception Stimuli Source Component"],
         "replace": ["BlockAll"]
     },

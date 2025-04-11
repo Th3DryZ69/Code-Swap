@@ -1,6 +1,0 @@
-{
-    "pakname": "UnrealEditorFortnite-Win64-Shipping.exe",
-    "offset": "105B954A", 
-    "search": "32 C0",
-    "replace": "90 90"
-}

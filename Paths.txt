@@ -5,3 +5,4 @@ White Copy => FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/Obje
 DevInventory => FortniteGame/Content/Creative/CreativeBetaPermissions
 LegoInventory => FortniteGame/Plugins/GameFeatures/Juno/JunoGame/Content/DataTables/DT_FreeBuildSpawnableItems_Basic
 Delete Copy => FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/DeleteObjects/Default_Allowed_DeleteObjects
+Create Old island => FortniteGame/Content/Playgrounds/Items/Portals/UI/DT_IslandTemplateDefinitions

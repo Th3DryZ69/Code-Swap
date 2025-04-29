@@ -1,0 +1,7 @@
+pakchunk20-Android_ASTCClient.ucas
+
+Search:
+30 50 42 57 41 5F 4D 31 5F 44 6F 6F 72 43 5F 43
+
+Replace with:
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00

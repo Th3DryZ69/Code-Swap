@@ -2,7 +2,7 @@
     "name": "WhiteCopy",
     "description": "",
     "version": "34.30",
-    "image": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Swapper/assets/whitecopy.png",
+    "image": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/whitecopy.png",
     "pak_path": "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\",
     "pak_name": "pakchunk30-WindowsClient.ucas",
     "swaps": [

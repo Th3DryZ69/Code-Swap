@@ -1,7 +1,7 @@
 {
   "Name": "LootTiered Tall Max 05",
   "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/S_LootTiered_Tall_Max_05.png",
-  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/PBW_W1_Pillar_05.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/PBW_W1_Pillar.png",
   "Message": "Add to collision for LootTiered Tall Max 05",
   "Assets": [{
     "AssetPath": "FortniteGame/Content/Packages/DS_Fortnight/Sm/Mesh/S_LootTiered_Tall_Max_05",

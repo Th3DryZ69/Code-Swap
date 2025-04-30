@@ -1,7 +1,7 @@
 {
   "Name": "Air Reactor Power Plant",
-  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Air%20Reactor%20Power%20Plant.png.png",
-  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Air%20Reactor%20Power%20Plant.png.png",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Air%20Reactor%20Power%20Plant.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Air%20Reactor%20Power%20Plant.png",
   "Message": "Add to collision for Air Reactor Power Plant",
   "Assets": [{
     "AssetPath": "FortniteGame/Content/Athena/Environments/Blueprints/DUDEBRO/BGA_DudeBro_Mini",

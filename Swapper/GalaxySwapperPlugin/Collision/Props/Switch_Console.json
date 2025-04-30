@@ -1,0 +1,20 @@
+{
+  "Name": "Switch Console",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Switch%20Console.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Switch%20Console.png",
+  "Message": "Add to collision for Switch Console",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Primary/DeliverGoods/Props/Switch_Console",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "FortTriggerOnlyInteractions",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

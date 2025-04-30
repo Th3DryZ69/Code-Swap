@@ -1,0 +1,24 @@
+{
+  "Name": "MM Portal Single",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/MM%20Portal%20Single.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/MM%20Portal%20Single.png",
+  "Message": "Add to collision for MM Portal Single",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_MM_Portal_Single",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "Custom",
+      "replace": "BlockAll"
+    },{
+      "type": "string",
+      "search": "NoCollision",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

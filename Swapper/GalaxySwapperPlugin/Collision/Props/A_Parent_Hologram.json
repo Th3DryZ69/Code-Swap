@@ -1,0 +1,20 @@
+{
+  "Name": "Hologram",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Hologram.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Hologram.png",
+  "Message": "Add to collision for Hologram",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Primary/OB_FarmsteadFort/HologramStations/A_Parent_Hologram",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "FortTriggerOnlyInteractions",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

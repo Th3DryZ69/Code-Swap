@@ -1,0 +1,20 @@
+{
+  "Name": "Zipline",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Zipline.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Zipline.png",
+  "Message": "Add to collision for Zipline",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Content/Athena/Items/Consumables/Zipline/SplineZipline/BP_Athena_Environmental_ZipLine_Spline",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "FortTriggerOnlyInteractions",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

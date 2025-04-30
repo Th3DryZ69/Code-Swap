@@ -1,0 +1,24 @@
+{
+  "Name": "Adventure DigSpot (Zone)",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Adventure%20DigSpot.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Adventure%20DigSpot.png",
+  "Message": "Add to collision for Adventure DigSpot (Zone)",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Primary/Season_Adventure/Landmark/Props/BP_Adventure_DigSpot",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "Custom",
+      "replace": "BlockAll"
+    },{
+      "type": "string",
+      "search": "Turn Off Decal",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

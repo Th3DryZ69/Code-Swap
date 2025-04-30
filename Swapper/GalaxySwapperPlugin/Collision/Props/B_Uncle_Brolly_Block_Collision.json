@@ -1,0 +1,24 @@
+{
+  "Name": "Uncle Brolly",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Uncle%20Brolly%20(Blocked).png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Uncle%20Brolly%20(Blocked).png",
+  "Message": "Add to collision for Uncle Brolly (Blocked Attack)",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/UncleBrolly/Content/Items/UncleBrolly/Abilities/Block/B_Uncle_Brolly_Block_Collision",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "Custom",
+      "replace": "BlockAll"
+    },{
+      "type": "string",
+      "search": "Is Open",
+      "replace": "Is Op"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

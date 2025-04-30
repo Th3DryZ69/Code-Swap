@@ -1,0 +1,24 @@
+{
+  "Name": "Barrer Island Hub 2",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Barrer%20Island%20Hub%202.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Barrer%20Island%20Hub%202.png",
+  "Message": "Add to collision for Barrer Island Hub 2",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Content/Creative/BuildingActors/Props/CP_Prop_Island_PlayerSpawnPad_02",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "Custom",
+      "replace": "BlockAll"
+    },{
+      "type": "string",
+      "search": "NoCollision",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Golden Mushroom",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Golden%20Mushroom.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Golden%20Mushroom.png",
+  "Message": "Add to collision for Golden Mushroom",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Content/Athena/BuildingActors/ConsumableBGAs/CBGA_Parent",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "FortTriggerOnlyInteractions",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

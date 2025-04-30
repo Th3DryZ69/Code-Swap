@@ -1,0 +1,24 @@
+{
+  "Name": "Maze Patrol",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Maze%20Patrol.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Props/Maze%20Patrol.png",
+  "Message": "Add to collision for Maze Patrol",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Primary/EventLandmarks/Season11/HauntedMaze/Props/BP_MazePatrolEndPoint",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "Custom",
+      "replace": "BlockAll"
+    },{
+      "type": "string",
+      "search": "Light Fade In Time",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

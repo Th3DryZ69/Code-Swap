@@ -1,0 +1,24 @@
+{
+  "Name": "Trap Elimination Zone & Trap Mutator Zone",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Traps/Trap%20Elimination%20Zone%20&%20Trap%20Mutator%20Zone.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Traps/Trap%20Elimination%20Zone%20&%20Trap%20Mutator%20Zone.png",
+  "Message": "Add to collision for Trap Elimination Zone & Trap Mutator Zone",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Content/Items/Traps/Blueprints/Toys/Device_Volume_Floor",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "Custom",
+      "replace": "BlockAll"
+    },{
+      "type": "string",
+      "search": "NoCollision",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

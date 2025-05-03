@@ -1,7 +1,0 @@
-pakchunk10-Android_ASTCClient.ucas
-
-Search: (All)
-50 42 57 41 5F 42 47
-
-Replace with: (All)
-00 00 00 00 00 00 00

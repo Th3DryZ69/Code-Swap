@@ -1,0 +1,24 @@
+{
+  "Name": "All Trap Vehicle Spawner",
+  "Icon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Traps/All%20Trap%20Vehicle%20Spawner.png",
+  "Swapicon": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Collision/Traps/All%20Trap%20Vehicle%20Spawner.png",
+  "Message": "Add to collision for All Trap Vehicle Spawner",
+  "Assets": [{
+    "AssetPath": "FortniteGame/Content/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent",
+    "AssetPathTo": "",
+    "Swaps": [{
+      "type": "string",
+      "search": "Custom",
+      "replace": "BlockAll"
+    },{
+      "type": "string",
+      "search": "Trap AI Perception Stimuli Source Component",
+      "replace": "BlockAll"
+    }]
+  }],
+  "Socials": [{
+    "type": "discord",
+    "header": "Th3DryZ69 Community",
+    "url": "https://discord.gg/A685R3Sa4y"
+  }]
+}

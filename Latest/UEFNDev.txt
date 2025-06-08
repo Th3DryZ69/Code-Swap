@@ -1,64 +1,64 @@
-UEFN PATCH 35.20
+UEFN PATCH 36.00
 
 Cannot modify cooked assets
-1259CF46 <— Offset (1/2)
+11E6DF66 <— Offset (1/2)
 
 32 C0 replace this
 90 90 with this
 
-1259CF3D <— Offset (2/2)
+11E6DF5D  <— Offset (2/2)
 
 74 replace this
 EB with this
 
 Unable to edit cooked asset
-A97B6E2 <— Offset (1/1)
+ACD0A82 <— Offset (1/1)
 
 32 DB replace this 
 B3 01 with this
 
 Copy Objects
-A70C2A7 <— Offset (1/1)
+A9D0327 <— Offset (1/1)
 
-0F 85 53 01 00 00 replace this 
+0F 85 49 01 00 00 replace this 
 90 90 90 90 90 90 with this
 
 Package is cooked or missing editor data\n
-A70C8E0 <— Offset (1/1)
+A9D0959 <— Offset (1/1)
 
 74 replace this 
 EB with this
 
 The requested operation could not be completed because the level is locked.
-950BB3C <- Offset (1/2)
+9798C1C  <- Offset (1/2)
 
 0F 85 AD 02 00 00 Replace this
 90 90 90 90 90 90 with this
 
-9DD6F45 <- Offset (2/2)
+A084285 <- Offset (2/2)
 
 0F 84 C9 Replace this
 E9 CA 00 with this 
 
 The binding is from a different library
-11209E11 <- Offset (1/2)
+11F093F1 <- Offset (1/2)
 
 74 replace this 
 EB with this
 
-1120D857 <- Offset (2/2)
+11F0CE57 <- Offset (2/2)
 
 74 replace this 
 EB with this
 
 Animation Fix
-C31BCD3 <- Offset (1/1)
+C74E763  <- Offset (1/1)
 
 74 replace this
 EB with this
 
 Launch Options or Item Definition Fix (-disableplugins="AtomVK,ValkyrieFortnite")
-DD7219E <- Offset (1/1)
+E1DA6AE  <- Offset (1/1)
 
 E8 AD 4B FF FF Replace this
 90 90 90 90 90 with this

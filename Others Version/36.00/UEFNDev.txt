@@ -1,0 +1,129 @@
+UEFN PATCH 36.00
+
+Cannot modify cooked assets
+11E6DF66 <— Offset (1/2)
+
+32 C0 replace this
+90 90 with this
+
+11E6DF5D  <— Offset (2/2)
+
+74 replace this
+EB with this
+
+Unable to edit cooked asset
+ACD0A82 <— Offset (1/1)
+
+32 DB replace this 
+B3 01 with this
+
+Copy Objects
+A9D0327 <— Offset (1/1)
+
+0F 85 49 01 00 00 replace this 
+90 90 90 90 90 90 with this
+
+Package is cooked or missing editor data\n
+A9D0959 <— Offset (1/1)
+
+74 replace this 
+EB with this
+
+The requested operation could not be completed because the level is locked.
+9798C1C  <- Offset (1/2)
+
+0F 85 AD 02 00 00 Replace this
+90 90 90 90 90 90 with this
+
+A084285 <- Offset (2/2)
+
+0F 84 C9 Replace this
+E9 CA 00 with this 
+
+The binding is from a different library
+11F093F1 <- Offset (1/2)
+
+74 replace this 
+EB with this
+
+11F0CE57 <- Offset (2/2)
+
+74 replace this 
+EB with this
+
+Animation Fix
+C74E763  <- Offset (1/1)
+
+74 replace this
+EB with this
+
+Launch Options or Item Definition Fix (-disableplugins="AtomVK,ValkyrieFortnite")
+E1DA6AE  <- Offset (1/1)
+
+E8 AD 4B FF FF Replace this
+90 90 90 90 90 with this
+
+UEFN PATCH 36.00 Update 1
+
+Cannot modify cooked assets
+11E6E136 <— Offset (1/2)
+
+32 C0 replace this
+90 90 with this
+
+11E6E12D  <— Offset (2/2)
+
+74 replace this
+EB with this
+
+Unable to edit cooked asset
+ACD0B62 <— Offset (1/1)
+
+32 DB replace this 
+B3 01 with this
+
+Copy Objects
+A9D0407 <— Offset (1/1)
+
+0F 85 49 01 00 00 replace this 
+90 90 90 90 90 90 with this
+
+Package is cooked or missing editor data\n
+A9D0A39 <— Offset (1/1)
+
+74 replace this 
+EB with this
+
+The requested operation could not be completed because the level is locked.
+9798CFC  <- Offset (1/2)
+
+0F 85 AD 02 00 00 Replace this
+90 90 90 90 90 90 with this
+
+A084365 <- Offset (2/2)
+
+0F 84 C9 Replace this
+E9 CA 00 with this 
+
+The binding is from a different library
+11F095C1 <- Offset (1/2)
+
+74 replace this 
+EB with this
+
+11F0D027 <- Offset (2/2)
+
+74 replace this 
+EB with this
+
+Animation Fix
+C74E843  <- Offset (1/1)
+
+74 replace this
+EB with this
+
+Launch Options or Item Definition Fix (-disableplugins="AtomVK,ValkyrieFortnite")
+E1DA78E  <- Offset (1/1)
+
+E8 AD 39 FF FF Replace this
+90 90 90 90 90 with this

@@ -4,7 +4,7 @@ Download [Files](https://play.google.com/store/apps/details?id=com.marc.files)
 - path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > GFP_BaseInstallRoot > Content > Paks > pakchunk30-Android_ASTCClient.ucas
 
 ## Step 2)
-Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor&pcampaignid=web_share)
+Download [Hex Editor](https://cdn.discordapp.com/attachments/1215795455993057321/1385268957686009988/Hex_Editor.apk?ex=685573c0&is=68542240&hm=22780ba68e297e94d157826e01c719dd7c35f2fa9e98af4327cd5cdad87f227b&)
 - go 'Open or Create File' > 'Open File' and select ```pakchunk30-Android_ASTCClient.ucas```
 
 ## Step 3)

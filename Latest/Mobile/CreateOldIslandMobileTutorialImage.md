@@ -13,7 +13,7 @@ Download [Hex Editor](https://cdn.discordapp.com/attachments/1215795455993057321
 ![Screen](../../Assets/OrangeCopy/OrangeCopy3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```164B960``` > Last Address: ```164BED0``` and Select
+- go 'Select Range' > First Address: ```164B9D0``` > Last Address: ```164BF40``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy5.jpg)

@@ -8,7 +8,7 @@ Download [Hex Editor](https://cdn.discordapp.com/attachments/1215795455993057321
 - go 'Open or Create File' > 'Open File' and select ```pakchunk30-Android_ASTCClient.ucas```
 
 ## Step 3)
-- go 'Select Range' > First Address: ```9A4F630``` > Last Address: ```9A4FBA2``` and Select
+- go 'Select Range' > First Address: ```9A4F6D0``` > Last Address: ```9A4FC42``` and Select
 
 ## Step 4)
 - copy code hex: 
@@ -21,7 +21,7 @@ Download [Hex Editor](https://cdn.discordapp.com/attachments/1215795455993057321
 - go 'Edit' > 'Overwrite' > paste code hex and Apply 
 
 ## Step 6)
-- go 'Select Range' > First Address: ```9A21F5F``` > Last Address: ```9A22094``` and Select
+- go 'Select Range' > First Address: ```9A21FFF``` > Last Address: ```9A22134``` and Select
 
 ## Step 7)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply

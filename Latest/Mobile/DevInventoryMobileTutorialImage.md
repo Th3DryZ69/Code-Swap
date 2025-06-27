@@ -13,7 +13,7 @@ Download [Hex Editor](https://cdn.discordapp.com/attachments/1215795455993057321
 ![Screen](../../Assets/DevInventory/DevInventory3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```1CB9210``` > Last Address: ```1CBA2AA``` and Select
+- go 'Select Range' > First Address: ```1CB9220``` > Last Address: ```1CBA2BA``` and Select
 
 ![Screen](../../Assets/DevInventory/DevInventory4.jpg)
 ![Screen](../../Assets/DevInventory/DevInventory5.jpg)

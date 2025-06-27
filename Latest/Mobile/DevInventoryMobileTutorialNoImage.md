@@ -8,7 +8,7 @@ Download [Hex Editor](https://cdn.discordapp.com/attachments/1215795455993057321
 - go 'Open or Create File' > 'Open File' and select ```pakchunk20-Android_ASTCClient.ucas```
 
 ## Step 3)
-- go 'Select Range' > First Address: ```1CB9210``` > Last Address: ```1CBA2AA``` and Search
+- go 'Select Range' > First Address: ```1CB9220``` > Last Address: ```1CBA2BA``` and Search
 
 ## Step 4)
 - copy code hex: 

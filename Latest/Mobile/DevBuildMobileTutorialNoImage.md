@@ -1,0 +1,17 @@
+## Step 1)
+Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
+- follow this [video](https://youtu.be/8N6MFhZ8XlY?si=ULY7uNq79dFiOSix)
+- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > GFP_BaseInstallRoot > Content > Paks > pakchunk30-Android_ASTCClient.ucas
+
+## Step 2)
+Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor)
+- go 'Open or Create File' > 'Open File' and select ```pakchunk30-Android_ASTCClient.ucas```
+
+## Step 3)
+- go 'Select Range' > First Address: ```1F74FBF``` > Last Address: ```1F75072``` and Search
+
+## Step 4)
+- go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
+
+## Step 5)
+- go to the top left and press the last save icon

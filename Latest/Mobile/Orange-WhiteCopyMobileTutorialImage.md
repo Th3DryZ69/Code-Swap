@@ -1,0 +1,59 @@
+# !!!!! Read the steps carefully and do not necessarily trust everything that is on the image, whether the name of the pak or the offsets. !!!!
+## Step 1)
+Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
+- follow this [video](https://youtu.be/8N6MFhZ8XlY?si=ULY7uNq79dFiOSix)
+- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > GFP_BlitzRoot > Content > Paks > pakchunk35-Android_ASTCClient_s2.ucas
+
+## Step 2)
+Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor)
+- go 'Open or Create File' > 'Open File' and select ```pakchunk35-Android_ASTCClient_s2.ucas```
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy1.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy2.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy3.jpg)
+
+## Step 3)
+- go 'Select Range' > First Address: ```CB5130``` > Last Address: ```CB57A2``` and Select
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy5.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy6.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy7.jpg)
+
+## Step 4)
+- copy code hex: 
+
+```
+8C 06 00 06 6C 88 06 6A 00 00 00 00 48 0D 00 00 50 14 68 04 46 82 82 5A 28 00 00 00 22 00 80 72 0F 00 00 B0 0C 00 00 B0 0C D8 20 0D 30 0D 44 44 20 20 29 00 B5 0A 64 C1 00 00 00 00 30 14 4A EA 88 59 6C 1E 49 09 63 15 20 35 E0 09 2D A0 1F 76 01 AB C3 79 B9 31 7D F4 9D C6 69 B5 53 F2 D4 7A D0 32 1D BA EE 4B 70 F0 85 52 33 3E 45 23 A0 7B C4 5B 3E A1 B0 E5 63 3B 03 45 12 AD B0 68 C1 E5 7B 0B 62 98 67 C7 CB 73 78 2B B9 2C 83 6C 9B 9C D3 AC 8F 09 E1 55 C2 03 DD 1E 77 97 38 3F 4E 71 01 51 D6 34 38 36 28 AB 36 8F E8 94 7E 64 CD 44 DB B0 82 9C F5 0B 58 AF 30 FE F7 9A 5D 05 79 4F 32 C6 04 7A 8F D2 E2 2C 47 96 64 46 BB A7 87 8D F3 2B 3B D9 86 48 CF F8 C0 7E A2 47 CD F9 91 AC F4 14 14 FF A5 EF FF B4 9D C3 62 3E C1 62 D4 5D B4 64 A1 3A 0D 7F FD E4 FF 4D D0 B6 D2 50 1E 4C 49 3C 86 2E 8F 4F 45 0F C8 40 A6 4C 87 54 4E DD 1B 08 A7 82 8D 3B 5D EC 88 E3 79 80 89 94 8D 17 E5 08 1C 0D 9E F0 D2 87 A5 9A CE C2 08 1F 44 A3 25 7D 41 AC 55 5C F8 3F 93 13 1C EF C1 B9 48 21 AD 6A 2E AC 60 80 63 80 97 E8 38 79 3C AC 0D D4 E3 AE 30 AD B1 64 34 92 08 48 A6 FE E9 4A F7 EE 74 BB 45 3C 1B 61 B7 2F F7 EF 80 BA 43 2E C7 07 76 17 07 8C D1 54 98 99 92 A8 CE 74 F8 B4 73 7E 03 12 1B E1 00 55 00 2F 00 32 00 50 00 4F 00 3E 00 35 00 2C 00 3E 00 4A 00 67 00 72 00 52 00 4C 00 59 00 5C 00 4E 00 52 00 52 00 47 00 57 00 52 00 50 00 48 00 3D 00 26 00 21 00 34 00 30 00 14 00 36 00 28 00 26 00 36 00 52 00 3C 00 6A 00 44 00 06 00 20 00 7B 05 ED D1 7B 98 29 4A E2 71 0D ED D9 85 24 6B 22 58 22 09 7C DC D3 CE AC 51 E3 22 58 A5 6D 55 F8 70 6A 8A 1E 92 E4 EA E2 71 CC 02 27 00 FF FF FF FF FF FF FF FF E9 B3 38 68 E9 10 B7 B9 0B 01 00 03 FB 26 1D 03 19 01 1A 05 17 02 00 09 1E 06 1B 07 16 13 09 08 15 0A 13 0B 11 0C 12 0D 0C 0E 0D 0F 10 10 14 11 0F 12 0E 04 08 14 0B 15 20 16 07 17 1C 18 21 19 04 1A 0A 1B 00 1C 01 1D 1F 1E 02 1F 05 20 06 21 25 26 24 22 18 23 23 24 03 25 00 00 00 00 03 22 00 00 00 00 00 00 00 A3 99 DA 93 43 CA 25 A6 EA 5E E9 A9 27 25 48 AD 7E 48 C4 24 86 DD C3 C7 20 4E 9B 89 6A 13 DE 09 40 93 00 71 6E BD 51 DD 66 1B B2 96 4C 92 53 9E 97 78 07 5D 4A 6A EB A1 6C 5D 95 1A DD 5F 5D 84 D5 0A 61 EA CD 7F 9A 55 CC CE 9C B5 A9 E5 A0 85 9F EB 09 21 DE 48 6C F5 01 DC 5E 65 0F 7E 59 47 5A 3E 95 82 6E 2D F1 26 CF 2C 05 96 35 A8 A3 2F D7 7C CF 82 A0 94 37 FB F8 EF FD 46 61 0D C3 AF BA 15 AB 8B 86 F8 8F 2D FB F7 97 8E 89 A3 71 98 B5 7F 4C FE C4 A1 6E CE 38 08 9D 1D AA 09 71 F6 31 11 B4 C0 79 0A 5F E0 5B 09 19 8A 9E 0B 8E 68 7F 5C CC E5 C6 0D D4 CD 0F A0 9D C6 9D 7E FE 05 87 B8 6F 62 98 87 AF 1E B0 D3 62 C9 93 0B 38 2B E9 9B 11 AA 44 DF 21 40 27 9B FA EF 12 12 4E A8 DF FE 8E EB 55 B3 79 72 79 62 91 D8 CD 4B BF 99 0B A2 81 4F 9E EB 17 C7 E9 8B B3 29 5D 20 96 4D EB 50 E4 04 E9 17 BF CC 0A F4 1C 7C C0 2A 87 40 3A EA 04 F5 44 67 9C C8 BC B6 60 AE 02 A4 46 90 ED 8A 5E 26 3F DE F8 5C E4 BD 1E DB 22 40 7E 7A BD EA B4 90 95 2C A3 BD 23 87 B7 F3 9E BC 3C F2 DD 3E E6 17 CC 8A BB 45 02 34 81 E2 73 09 FC 74 5D 3B 2C F8 F1 E9 4F 90 D6 6E 83 A0 8F 8D ED B2 DF 1B 27 54 59 26 77 0B 66 E6 9E EA 99 13 02 D6 55 EF BA 3A E6 C5 AC 0E F0 FB B7 5F 96 86 33 59 5F B3 BC D5 37 39 FF 84 B4 39 15 24 33 E0 FD 39 91 6F 93 D5 3A 70 79 FF 55 EC A1 E8 F4 99 5B B3 D7 A6 F5 67 99 A2 15 4A D1 5D E2 1D E4 91 B4 48 D4 F2 FD 1F 16 49 54 34 1C 2C BD DA DA 86 1E 9B 07 C1 24 D0 E6 C2 AD B1 09 5F 37 E4 20 E7 B0 1D E7 4D 72 E7 A1 47 0E DE 89 6B 8E 47 C9 04 80 80 04 81 92 71 00 BE 38 80 60 20 04 7C 00 E8 93 C9 B7 12 24 96 95 7F F7 9E DE 27 5A BF AB B9 B1 DD D5 33 3C 6C D8 6D 8F B6 D9 B6 FE B7 A4 00 03 6F 89 80 1B 20 9D 60 7A 50 11 28 96 D6 94 00 3E 00 79 9E E7 76 15 EE A4 72 45 18 BE 9D AC C3 B0 FB EC A5 EE 4A AD 8B B7 B1 D2 90 9E 63 6F 86 FF 51 4E DB 72 12 A9 D3 C9 B7 55 D0 EA 2C DD DF 7A AF DD 7D 2B EB 57 02 04 41 10 04 41 10 04 41 8B 2C DF 0C 4E 6D 54 9C C2 F2 31 64 A6 92 A2 0E D6 A6 55 18 9C 34 53 1D 9F 76 A6 F0 A9 B0 2A 8D 8F B1 37 4D E9 BD 73 2F DB D8 27 AB FB B9 EF ED F5 17 78 0B 82 20 08 82 20 08 82 20 08 20 82 08 20 82 08 20 90 55 A3 F6 CB DF C6 53 73 E6 69 8F CA 39 B0 EE 14 C1 E5 1C 9D 8B A9 30 D1 06 93 0B AF 46 1E 27 C4 12 32 61 0F 14 C8 DA 57 B5 4B AE FC E8 5C DE B3 67 96 59 80 80 9C 17 16 10 0C 15 16 0C 16 0E 1B 12 29 0E 1A 25 18 18 0D 17 16 0B 29 11 0E 18 1D 11 28 19 10 1A 32 32 16 12 1B 10 20 0F 1F 11 1F 0A 1C 08 15 0F 1B 19 0C 1A 2B 22 0B 10 1C 12 1C 2E 29 24 2A 0D 1A 33 31 23 0B 0D 1B 29 22 0C 19 08 12 10 1B 38 10 38 38 0C 1B 38 0C 0E 1B 32 37 0E 33 0E 2E 19 2A 3D 13 12 31 17 16 10 30 1B 0A 35 14 1C 27 15 0E 13 14 10 1D 32 3F 3F 30 3B 0E 2F 30 12 0B 18 21 3D 1C 34 12 1E 19 0B 38 13 3F 2C 3B 15 1F 0F 1C 20 44 08 16 1A 0C 1B 20 19 1E 0F 0D 00 00 47 0B FF 09 13 06 1B 10 1B 03 0A 02 03 01 08 09 05 1C 05 06 0A 01 04 11 09 06 09 12 04 03 06 06 10 21 0B 0F 05 18 01 03 02 01 02 01 12 09 11 0C 01 07 03 04 04 04 07 0B 0B 06 0B 0A 00 01 09 0F 18 19 03 12 0F 25 05 06 7E FA DB 88 8C 01 9C 77 50 11 D2 F6 74 0C 11 F2 64 91 7B 15 55 2C 86 27 17 17 F5 30 18 44 00 00 11 36 C5 4D CC 77 4B B3 90 11 FF 3A 94 CE 66 DD 20 33 E7 A3 BA B7 66 70 D2 B2 C8 C1 3B 40 BE 82 48
+```
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy9.jpg)
+
+## Step 5)
+- go 'Edit' > 'Overwrite' > paste code hex and Apply
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy5e.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy8.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy10.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy11.jpg)
+
+## Step 6)
+- go 'Select Range' > First Address: ```CB59B4``` > Last Address: ```CB5AE3``` and Select
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy12.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy13.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy14.jpg)
+
+## Step 7)
+- go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy15.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy16.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy17.jpg)
+
+## Step 8)
+- go to the top left and press the last save icon
+
+![Screen](../../Assets/OrangeCopy/OrangeCopy18.jpg)
+![Screen](../../Assets/OrangeCopy/OrangeCopy19.jpg)

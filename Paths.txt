@@ -1,9 +1,0 @@
-Nitro Fly => FortniteGame/Plugins/GameFeatures/NitroGameplay/Content/DataTables/NitroGameplayGameData_NoBuild_Override
-Grillage Voiture Boss Invisible => FortniteGame/Content/Environments/Asteria/Sets/EclipseVault/Meshes/SM_EclipseVault_CellWall_A
-Orange Copy => FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/MoveObjectsFreely/Default_Allowed_MoveObjectsFreely / New path: FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/MoveActorsFreely/Default_Allowed_MoveActorsFreely
-White Copy => FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/MoveObjectsFreely/Default_Forbidden_MoveObjectsFreely / New path: FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/MoveActorsFreely/Default_Forbidden_MoveActorsFreely
-DevInventory => FortniteGame/Content/Creative/CreativeBetaPermissions
-LegoInventory => FortniteGame/Plugins/GameFeatures/Juno/JunoGame/Content/DataTables/DT_FreeBuildSpawnableItems_Basic
-Delete Copy => FortniteGame/Content/Weapons/Prototype/ObjectMover/Blueprints/ObjectInteractionBehaviors/DeleteObjects/Default_Allowed_DeleteObjects
-Create Old island => FortniteGame/Content/Playgrounds/Items/Portals/UI/DT_IslandTemplateDefinitions
-Dev Build => FortniteGame/Content/Building/ActorBlueprints/Player/Metal/L1/PBWA_M1_DoorC

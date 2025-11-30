@@ -2,18 +2,18 @@
 ## Step 1)
 Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
 - follow this [video](https://youtu.be/8N6MFhZ8XlY?si=ULY7uNq79dFiOSix)
-- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > Startup > Content > Paks > pakchunk0-Android_ASTCClient.ucas
+- path pak : Android > data > com.epicgames.fortnite > files > GFP_BaseInstallRoot > Startup > Content > Paks > pakchunk30-Android_ASTCClient.ucas
 
 ## Step 2)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor)
-- go 'Open or Create File' > 'Open File' and select ```pakchunk0-Android_ASTCClient.ucas```
+- go 'Open or Create File' > 'Open File' and select ```pakchunk30-Android_ASTCClient.ucas```
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy1.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy2.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```E07FA0``` > Last Address: ```E08510``` and Select
+- go 'Select Range' > First Address: ```2BB7800``` > Last Address: ```2BB7D70``` and Select
 
 ![Screen](../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../Assets/OrangeCopy/OrangeCopy5.jpg)

@@ -1,53 +1,53 @@
-UEFN PATCH 39.10 > UnrealEditorFortnite-Engine-Win64-Shipping.dll
+UEFN PATCH 39.11 > UnrealEditorFortnite-Engine-Win64-Shipping.dll
 
 Cannot modify cooked assets
-C931BF1 <— Offset (1/2)
+C932321 <— Offset (1/2)
 
 32 C0 replace this
 90 90 with this
 
-C931BE8 <— Offset (2/2)
+C932318 <— Offset (2/2)
 
 74 replace this
 EB with this
 
 Unable to edit cooked asset
-4D5A3A6 <— Offset (1/1)
+4D5B716 <— Offset (1/1)
 
 0F 84 56 03 00 replace this 
 E9 57 03 00 00 with this
 
 Copy Objects
-4AAF638 <— Offset (1/1)
+4AB09A8 <— Offset (1/1)
 
 0F 85 C8 02 00 00 replace this 
 90 90 90 90 90 90 with this
 
 Package is cooked or missing editor data\n
-4AAFACC <— Offset (1/1)
+4AB0E3C <— Offset (1/1)
 
 74 replace this 
 EB with this
 
 Is Level Locked
-2C48C40 <- Offset (1/2)
+2C491D0 <- Offset (1/2)
 
 48 89 5C 24 20 Replace this
 30 C0 C3 90 90 with this
 
 The binding is from a different library
-DDD3552 <- Offset (1/2)
+DDD42B2 <- Offset (1/2)
 
 74 replace this 
 EB with this
 
-DDD671C <- Offset (2/2)
+DDD747C <- Offset (2/2)
 
 74 replace this
 EB with this
 
 Launch Options or Item Definition Fix (-disableplugins="AtomVK,FNChaosVD,ValkyrieFortnite,UEFN")
-1B89C03 <- Offset (1/1)
+1B89F53 <- Offset (1/1)
 
 E8 A8 0F FF FF Replace this
 90 90 90 90 90 with this

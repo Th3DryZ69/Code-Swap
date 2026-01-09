@@ -8,27 +8,27 @@ Download [Files](https://play.google.com/store/apps/details?id=com.marc.files)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor)
 - go 'Open or Create File' > 'Open File' and select ```pakchunk30-Android_ASTCClient.ucas```
 
-![Screen](../../Assets/DevInventory/DevInventory1.jpg)
-![Screen](../../Assets/DevInventory/DevInventory2.jpg)
-![Screen](../../Assets/DevInventory/DevInventory3.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory1.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory2.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```3D34C4F``` > Last Address: ```3D34D02``` and Select
+- go 'Select Range' > First Address: ```2BDDE9F``` > Last Address: ```2BDDF52``` and Select
 
-![Screen](../../Assets/DevInventory/DevInventory4.jpg)
-![Screen](../../Assets/DevInventory/DevInventory5.jpg)
-![Screen](../../Assets/DevInventory/DevInventory6.jpg)
-![Screen](../../Assets/DevInventory/DevInventory7.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory4.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory5.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory6.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory7.jpg)
 
 ## Step 4)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply
 
-![Screen](../../Assets/DevInventory/DevInventory8.jpg)
-![Screen](../../Assets/DevInventory/DevInventory9.jpg)
-![Screen](../../Assets/DevInventory/DevInventory10.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory8.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory9.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory10.jpg)
 
 ## Step 5)
 - go to the top left and press the last save icon
 
-![Screen](../../Assets/DevInventory/DevInventory11.jpg)
-![Screen](../../Assets/DevInventory/DevInventory12.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory11.jpg)
+![Screen](../../../Assets/DevInventory/DevInventory12.jpg)

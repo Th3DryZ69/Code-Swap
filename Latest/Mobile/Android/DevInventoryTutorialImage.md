@@ -13,7 +13,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../../Assets/DevInventory/DevInventory3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```E6FCE0``` > Last Address: ```E70CEC``` and Select
+- go 'Select Range' > First Address: ```DF8E70``` > Last Address: ```DF9E7C``` and Select
 
 ![Screen](../../../Assets/DevInventory/DevInventory4.jpg)
 ![Screen](../../../Assets/DevInventory/DevInventory5.jpg)

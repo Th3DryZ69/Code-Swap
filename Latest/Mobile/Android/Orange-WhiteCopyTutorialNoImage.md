@@ -1,14 +1,14 @@
 ## Step 1)
 Download [Files](https://play.google.com/store/apps/details?id=com.marc.files) 
 - follow this [video](https://youtu.be/8N6MFhZ8XlY?si=ULY7uNq79dFiOSix)
-- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > GFP_BlitzRoot > Content > Paks > pakchunk35-Android_ASTCClient_s1.ucas
+- path pak : Android > data > com.epicgames.fortnite > files > InstalledBundles > GFP_BlitzRoot > Content > Paks > pakchunk35-Android_ASTCClient_s2.ucas
 
 ## Step 2)
 Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hexeditor)
-- go 'Open or Create File' > 'Open File' and select ```pakchunk35-Android_ASTCClient_s1.ucas```
+- go 'Open or Create File' > 'Open File' and select ```pakchunk35-Android_ASTCClient_s2.ucas```
 
 ## Step 3)
-- go 'Select Range' > First Address: ```195AD00``` > Last Address: ```195B370``` and Select
+- go 'Select Range' > First Address: ```22313B0``` > Last Address: ```2231A20``` and Select
 
 ## Step 4)
 - copy code hex: 
@@ -21,7 +21,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 - go 'Edit' > 'Overwrite' > paste code hex and Apply 
 
 ## Step 6)
-- go 'Select Range' > First Address: ```195B584``` > Last Address: ```195B6B3``` and Select
+- go 'Select Range' > First Address: ```2231C34``` > Last Address: ```2231D63``` and Select
 
 ## Step 7)
 - go 'Edit' > 'Fill Overwrite' > Don't change anything and Apply

@@ -4,16 +4,16 @@ Place End <CTRL+V> (pakchunk40-SwitchClient.ucas):
 
 Search (pakchunk40-SwitchClient.utoc):
 
-80 B9 31 06 00 A4 06 00 2C 0E 00 01
+60 3E 2B 06 00 A4 06 00 2C 0E 00 01
 
 Replace:
 
-A0 65 C0 E9 00 81 14 00 53 41 00 01 
+D0 62 47 EA 00 81 14 00 53 41 00 01 
 
 Search (pakchunk40-SwitchClient.utoc):
 
-00 3E 7C 00 00 00 00 00 0E 2C 03 D4
+00 3E AD 00 00 00 00 00 0E 2C 00 6C
 
 Replace:
 
-00 3E 7C 00 00 00 00 00 41 53 00 03
+00 3E AD 00 00 00 00 00 41 53 00 03

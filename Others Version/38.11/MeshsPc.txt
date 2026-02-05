@@ -10,7 +10,6 @@ Replace:
 
 B0 E4 FF FF 00 78 14 00 48 41 00 01
 
-
 Search (pakchunk40-WindowsClient.utoc):
 
 04 46 E1 00 00 00 00 00 0E 2C 01 15

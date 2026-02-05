@@ -4,16 +4,16 @@ Place End <CTRL+V> (pakchunk40-WindowsClient.ucas):
 
 Search (pakchunk40-WindowsClient.utoc):
 
-00 F8 3D C6 00 21 07 00 2C 0E 00 01
+00 C8 FE C3 00 21 07 00 2C 0E 00 01
 
 Replace:
 
-C0 06 E7 FF 00 81 14 00 53 41 00 01
+B0 52 AE FF 00 81 14 00 53 41 00 01
 
 Search (pakchunk40-WindowsClient.utoc):
 
-04 FE BC 00 00 00 00 00 0E 2C 01 D1
+05 02 3D 00 00 00 00 00 0E 2C 01 FA
 
 Replace:
 
-04 FE BC 00 00 00 00 00 41 53 00 03
+05 02 3D 00 00 00 00 00 41 53 00 03

@@ -1,4 +1,4 @@
-UEFN PATCH 39.30 Update 1> UnrealEditorFortnite-Engine-Win64-Shipping.dll
+UEFN PATCH 39.30 Update 1 > UnrealEditorFortnite-Engine-Win64-Shipping.dll
 
 Cannot modify cooked assets
 C9467B1 <— Offset (1/2)

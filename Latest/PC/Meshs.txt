@@ -4,11 +4,11 @@ Place End <CTRL+V> (pakchunk30-WindowsClient.ucas):
 
 Search (pakchunk30-WindowsClient.utoc):
 
-00 F8 A8 1C 00 1E 43 00 00 00 01 01
+00 B0 A9 1C 00 1E 43 00 00 00 01 01
 
 Replace:
 
-50 67 FF FF 00 5C 25 00 4A 96 00 01
+F0 8C FC FF 00 5C 25 00 4A 96 00 01
 
 Search (pakchunk30-WindowsClient.utoc):
 

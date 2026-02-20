@@ -5,11 +5,11 @@ Place End <CTRL+V> (pakchunk30-WindowsClient.ucas):
 
 Search (pakchunk30-WindowsClient.utoc):
 
-00 88 D6 1C 00 1E 43 00 00 00 01 01
+00 D8 D6 1C 00 1E 43 00 00 00 01 01
 
 Replace:
 
-30 07 FE FF 00 5C 25 00 4A 96 00 01
+30 17 FE FF 00 5C 25 00 4A 96 00 01
 
 Search (pakchunk30-WindowsClient.utoc):
 

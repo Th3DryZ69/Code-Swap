@@ -5,19 +5,19 @@ Place End <CTRL+V> (pakchunk30-WindowsClient.ucas):
 
 Search (pakchunk30-WindowsClient.utoc):
 
-00 D8 D6 1C 00 1E 43 00 00 00 01 01
+00 68 D5 1C 00 1E 43 00 00 00 01 01
 
 Replace:
 
-30 17 FE FF 00 5C 25 00 4A 96 00 01
+00 1B FF FF 00 5C 25 00 4A 96 00 01
 
 Search (pakchunk30-WindowsClient.utoc):
 
-00 9F 10 00 00 00 00 01 24 A1 0A 9B
+00 9F 0D 00 00 00 00 01 24 A1 04 BD
 
 Replace:
 
-00 9F 10 00 00 00 00 00 96 4A 00 00
+00 9F 0D 00 00 00 00 00 96 4A 00 00
 
 
 ==============Microsoft Store==============
@@ -27,16 +27,16 @@ Place End <CTRL+V> (pakchunk30-WindowsClient.ucas):
 
 Search (pakchunk30-WindowsClient.utoc):
 
-00 60 AA 46 00 1E 43 00 00 00 01 01
+00 00 BD 46 00 1E 43 00 00 00 01 01
 
 Replace:
 
-10 AE FF FF 00 5C 25 00 4A 96 00 01
+10 A3 FE FF 00 5C 25 00 4A 96 00 01
 
 Search (pakchunk30-WindowsClient.utoc):
 
-02 43 DB 00 00 00 00 01 24 A1 0A B8
+02 44 D4 00 00 00 00 01 24 A1 09 A7
 
 Replace:
 
-02 43 DB 00 00 00 00 00 96 4A 00 00
+02 44 D4 00 00 00 00 00 96 4A 00 00

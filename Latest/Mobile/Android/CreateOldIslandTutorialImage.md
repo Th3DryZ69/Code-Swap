@@ -13,7 +13,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```2CB7160``` > Last Address: ```2CB76D0``` and Select
+- go 'Select Range' > First Address: ```21B73E0``` > Last Address: ```21B7950``` and Select
 
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy5.jpg)

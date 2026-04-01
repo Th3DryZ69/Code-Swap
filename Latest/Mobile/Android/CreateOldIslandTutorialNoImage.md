@@ -8,7 +8,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 - go 'Open or Create File' > 'Open File' and select ```pakchunk30-Android_ASTCClient.ucas```
 
 ## Step 3)
-- go 'Select Range' > First Address: ```21C1270``` > Last Address: ```21C17E0``` and Select
+- go 'Select Range' > First Address: ```216BDB0``` > Last Address: ```216C320``` and Select
 
 ## Step 4)
 - copy code hex: 

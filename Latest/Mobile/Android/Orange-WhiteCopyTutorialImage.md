@@ -13,7 +13,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy3.jpg)
 
 ## Step 3)
-- go 'Select Range' > First Address: ```DEE1970``` > Last Address: ```DEE1FE0``` and Select
+- go 'Select Range' > First Address: ```E22FC20``` > Last Address: ```E230290``` and Select
 
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy5.jpg)
@@ -38,7 +38,7 @@ Download [Hex Editor](https://play.google.com/store/apps/details?id=tk.yunus.hex
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy11.jpg)
 
 ## Step 6)
-- go 'Select Range' > First Address: ```DEE21F4``` > Last Address: ```DEE2323``` and Select
+- go 'Select Range' > First Address: ```E2304A4``` > Last Address: ```E2305D3``` and Select
 
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy4.jpg)
 ![Screen](../../../Assets/OrangeCopy/OrangeCopy12.jpg)

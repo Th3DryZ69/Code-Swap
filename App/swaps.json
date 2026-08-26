@@ -6,11 +6,11 @@
     "downloadUrl": "https://www.mediafire.com/file/uw698rya4qmoeh9/pakchunk0-Android_ASTCClient.ucas/file",
     "downloadUrlUtoc": "",
     "downloadUrlPak": "",
-    "imageUrl": "",
-    "extraImages": [],
+    "imageUrl": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Paks/CreateOldIsland.png",
+    "extraImages": ["https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Paks/DevInventory.png"],
     "sizeBytes": 0,
     "category": "Dev",
-    "author": "",
+    "author": "Th3DryZ69",
     "destDir": "Startup/FortniteGame/Content/Paks"
   },
   {
@@ -20,11 +20,12 @@
     "downloadUrl": "https://www.mediafire.com/file/9p3081n9c345rr0/pakchunk0-Android_ASTCClient.ucas/file",
     "downloadUrlUtoc": "",
     "downloadUrlPak": "",
-    "imageUrl": "",
-    "extraImages": [],
+    "imageUrl": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Paks/DevBuild.png",
+    "extraImages": ["https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Paks/DevInventory.png",
+    "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Paks/CreateOldIsland.png"],
     "sizeBytes": 0,
     "category": "Dev",
-    "author": "",
+    "author": "Th3DryZ69",
     "destDir": "Startup/FortniteGame/Content/Paks"
   },
   {
@@ -34,11 +35,11 @@
     "downloadUrl": "https://www.mediafire.com/file/uw698rya4qmoeh9/pakchunk0-Android_ASTCClient.ucas/file",
     "downloadUrlUtoc": "",
     "downloadUrlPak": "",
-    "imageUrl": "",
-    "extraImages": [],
+    "imageUrl": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Paks/DevInventory.png",
+    "extraImages": ["https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Paks/CreateOldIsland.png"],
     "sizeBytes": 0,
     "category": "Dev",
-    "author": "",
+    "author": "Th3DryZ69",
     "destDir": "Startup/FortniteGame/Content/Paks"
   },
   {
@@ -48,11 +49,11 @@
     "downloadUrl": "https://www.mediafire.com/file/77oetxhvfzn7ssi/pakchunk35-Android_ASTCClient.ucas/file",
     "downloadUrlUtoc": "",
     "downloadUrlPak": "",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/Th3DryZ69/Code-Swap/refs/heads/main/Assets/Paks/WhiteCopy.png",
     "extraImages": [],
     "sizeBytes": 0,
     "category": "Copy",
-    "author": "",
+    "author": "Th3DryZ69",
     "destDir": "GFP_BlitzRoot/FortniteGame/Content/Paks"
   },
   {
@@ -80,7 +81,7 @@
     "extraImages": [],
     "sizeBytes": 251,
     "category": "Mesh",
-    "author": "",
+    "author": "Th3DryZ69",
     "destDir": "GFP_BaseInstallRoot/FortniteGame/Content/Paks"
   }
 ]

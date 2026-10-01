@@ -1,4 +1,4 @@
-pakchunk35-WindowsClient.ucas
+pakchunk30-WindowsClient.ucas
 
 Default_Allowed_MoveActorsFreely
 Search:

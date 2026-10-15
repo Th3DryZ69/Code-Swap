@@ -1,4 +1,4 @@
-pakchunk30-Android_ASTCClient.ucas
+pakchunk30-Android_ASTCClient_s1.ucas
 
 OrangeCopy (Necessary for WhiteCopy)
 Default_Allowed_MoveActorsFreely
